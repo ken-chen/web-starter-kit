@@ -1,0 +1,427 @@
+[
+    {
+        "id":"design-feat1",
+        "title":"BOLD DESIGN",
+        "items":[
+            {
+                "id":"design-feat1-item1",
+                "title":"Athletic form",
+                "description":"With a low wide stance and fierce new shape, the Civic cuts an athletic form that stands out from the pack. Select the RS for an even sportier look with rear wing spoiler, 17-inch sports alloy wheels and unique black grille.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-style-front-shot.jpg"
+            },
+            {
+                "id":"design-feat1-item2",
+                "title":"Aerodynamics",
+                "description":"Advanced aerodynamics allow the Bold New Civic to slice through the air creating a quieter cabin and better fuel efficiency.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-style-rear-shot.jpg"
+            }
+        ],
+        "disclaimer":"RS shown in Brilliant Sporty Blue."
+    },
+    {
+        "id":"design-feat2",
+        "title":"ALLOY WHEELS",
+        "items":[
+            {
+                "id":"design-feat2-item1",
+                "title":"ALLOY WHEELS",
+                "description":"Its sleek lines and sporting poise are further enhanced by striking new alloy wheel designs available on the VTi-S and above.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-wheels.jpg"
+            }
+        ],
+        "disclaimer":"RS shown in Brilliant Sporty Blue."
+    },
+    {
+        "id":"design-feat3",
+        "title":"SUNROOF",
+        "items":[
+            {
+                "id":"design-feat3-item1",
+                "title":"SUNROOF",
+                "description":"Feel part of the scenery you're driving through with an electric sunroof* that opens up with one-touch tilt and slide functionality. A sliding sunshade lets you adjust how much light enters the cabin.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-sunroof-2x2.jpg"
+            }
+        ],
+        "disclaimer":"*Available on RS and above."
+    },
+    {
+        "id":"design-feat4",
+        "title":"LIGHTS",
+        "items":[
+            {
+                "id":"design-feat4-item1",
+                "title":"HEADLIGHTS",
+                "description":"Welcome to the future of lighting. With Daytime Running Lights (DRL) as standard and distinctively-designed full-LED headlights on select models*, you'll enjoy a brilliantly lit road ahead.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-lights-headlights.jpg"
+            },
+            {
+                "id":"design-feat4-item2",
+                "title":"TAIL LIGHTS",
+                "description":"At the rear, beautifully styled tail lights with integrated LED light bars help give the Civic a unique persona.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-lights-tail-lights.jpg"
+            },
+            {
+                "id":"design-feat4-item3",
+                "title":"FOG LIGHTS",
+                "description":"Designed to provide additional light in poor weather conditions, fog lights come fitted to VTi-S and above. LED variety available on select models*.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-lights-fog-lights.jpg"
+            }
+        ],
+        "disclaimer":"*LED Headlights and LED Fog Lights available on RS and above.<br />RS shown in Brilliant Sporty Blue."
+    },
+    {
+        "id":"design-feat5",
+        "title":"STYLING",
+        "items":[
+            {
+                "id":"design-feat5-item1",
+                "title":"GRILLE",
+                "description":"Sharply defined character lines draw the eye toward to the Civic's new face, highlighted by a distinct chrome grille. RS features a unique black grille for an even sportier look.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-accessories-grille.jpg"
+            },
+            {
+                "id":"design-feat5-item2",
+                "title":"SIDE MIRRORS",
+                "description":"Newly designed power side mirrors are aerodynamically optimised to reduce wind noise. Select models* add integrated LED turn indicators.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-accessories-side-mirrors.jpg"
+            }
+        ],
+        "disclaimer":"*VTi-S and above.<br />RS shown in Brilliant Sporty Blue."
+    },
+    {
+        "id":"design-feat6",
+        "title":"SPACE & STORAGE",
+        "items":[
+            {
+                "id":"design-feat6-item1",
+                "title":"INTERIOR",
+                "description":"The Civic delivers a sense of spaciousness and premium comfort that belies its small car class. Rear seat passengers will appreciate enhanced legroom and newly shaped front seat backs that lend the rear cabin a more open, airy feel.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-space-and-storage-interior-2x2.jpg"
+            },
+            {
+                "id":"design-feat6-item2",
+                "title":"CENTRE CONSOLE",
+                "description":"With an adaptable centre console, carrying an oversized drink bottle or storing a full-size tablet, has never been easier. Upfront, a clever two-tiered storage area can hold a smartphone while keeping cables hidden. There's even a sliding centre armrest.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-space-and-storage-centre-console.jpg"
+            },
+            {
+                "id":"design-feat6-item3",
+                "title":"BOOT",
+                "description":"Boot space is now wider and deeper with as much as 519 litres* available. And with a lower lift height and larger rear opening it's now easier to load and unload bulky items.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-space-and-storage-boot.jpg"
+            },
+            {
+                "id":"design-feat6-item4",
+                "title":"SPLIT FOLD SEATS",
+                "description":"As if there wasn't enough space already, the cleverly designed 60:40 split-fold rear seats allow you to fit more in while still leaving plenty of room for rear passengers.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-design-fold-down-seats.jpg"
+            }
+        ],
+        "disclaimer":"* VTi, VTi-S and VTi-L feature 519L boot capacity. RS and VTi-LX feature 517L boot capacity.<br />RS shown."
+    },
+    {
+        "id":"performance-feat1",
+        "title":"HANDLING",
+        "items":[
+            {
+                "id":"performance-feat1-item1",
+                "title":"HANDLING",
+                "description":"A lightweight yet rigid chassis combined with the balanced poise of a perfectly-tuned independent suspension system means you can enjoy sporting agility and smooth-riding comfort.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-performance-handling.jpg"
+            }
+        ],
+        "disclaimer":"RS shown in White Orchid."
+    },
+    {
+        "id":"performance-feat2",
+        "title":"EARTH DREAMS TECHNOLOGY",
+        "items":[
+            {
+                "id":"performance-feat2-item1",
+                "title":"EARTH DREAMS TECHNOLOGY",
+                "description":"Engineered with the latest in Honda's Earth Dreams Technology, the Civic delivers a unique mix of driving enjoyment with outstanding environmental performance.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-performance-earthdreams.jpg"
+            }
+        ],
+        "disclaimer":"VTi-LX shown in Rally Red."
+    },
+    {
+        "id":"performance-feat3",
+        "title":"TRANSMISSION",
+        "items":[
+            {
+                "id":"performance-feat3-item1",
+                "title":"CVT TRANSMISSION",
+                "description":"Experience a seamless wave of power with a new Continuously Variable Transmission. Embracing Honda's Earth Dreams Technology, it helps maximise efficiency whatever the conditions.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-performance-cvt-transmission.jpg"
+            },
+            {
+                "id":"performance-feat3-item2",
+                "title":"PADDLE SHIFTERS",
+                "description":"Available on VTi-L and above, ergonomic paddles on the steering wheel allow you to manually shift gears with ease, giving you more control over your drive.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-performance-paddle-shifters.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"performance-feat4",
+        "title":"TURBO ENGINE",
+        "items":[
+            {
+                "id":"performance-feat4-item1",
+                "title":"TURBO ENGINE",
+                "description":"Get a more responsive and dynamic drive from the moment you set off with the availability of Honda's first-ever 127kW VTEC turbo engine. Available on VTi-L and above.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-performance-engine-2x2.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"technology-feat1",
+        "title":"APPLE CARPLAY<sup>&trade;1</sup> &amp; ANDROID AUTO<sup>&trade;2</sup>",
+        "items":[
+            {
+                "id":"technology-feat1-item1",
+                "title":"APPLE CARPLAY<sup>&trade;1</sup> &amp; ANDROID AUTO<sup>&trade;2</sup>",
+                "description":"Android&trade; or iPhone&reg; users can now seamlessly integrate their device to the Civic's touchscreen display. Get directions, make calls, send and receive messages, listen to music and even interact with some of your favorite apps. All while staying focused on the road. What's more, with access to Siri&reg; Eyes Free<sup>1</sup> or Google&trade; Voice Search<sup>2</sup>, you can do much of it without ever having to take your hands off the steering wheel. All you have to do is ask.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-apple-car-play-and-android-auto.jpg"
+            }
+        ],
+        "disclaimer":"<sup>1</sup> Apple CarPlay, iPhone and Siri are trademarks of Apple Inc. CarPlay and Siri requires iPhone 5 model and above running iOS 7.1 or higher.<br><sup>2</sup> Android, Android Auto and Google are trademarks of Google Inc. Android Auto and Google Voice Search requires Android 5.0 (Lollipop) or above.2 Android, Android Auto and Google are trademarks of Google Inc. Android Auto and Google Voice Search requires Android 5.0 (Lollipop) or above."
+    },
+    {
+        "id":"technology-feat2",
+        "title":"DISPLAY AUDIO",
+        "items":[
+            {
+                "id":"technology-feat2-item1",
+                "title":"7-INCH DISPLAY",
+                "description":"It wouldn't be a Honda without its cleverly designed interface. This full-colour, high definition display keeps you connected to your world without distracting you from the road. Simply tap, pinch or swipe and you're in full command.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-display-audio-7inch-display.jpg"
+            },
+            {
+                "id":"technology-feat2-item2",
+                "title":"DIGITAL RADIO (DAB+)*",
+                "description":"Literally music to your ears, access to all your favourite digital radio stations with crystal clear quality. Available on VTi-L and above.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-display-audio-7inch-display.jpg"
+            },
+            {
+                "id":"technology-feat2-item3",
+                "title":"SATELLITE NAVIGATION",
+                "description":"Built into the VTi-LX display you'll find Garmin&reg;^ satellite navigation and thanks to SUNA> live traffic updates, you'll always know how the traffic situation is looking.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-display-audio-nav.jpg"
+            }
+        ],
+        "disclaimer":"*Digital radio station coverage dependent on vehicle location.<br>^Garmin&reg; is a trademark of Garmin Ltd. or its subsidiaries, registered in the USA and other countries.<br>&gt;SUNA is a registered trademark of Intelematics Pty. Ltd. Coverage includes Melbourne, Sydney, Brisbane, Gold Coast, Adelaide, Perth and Canberra metropolitan areas. Refer to sunatraffic.com.au for full details."
+    },
+    {
+        "id":"technology-feat3",
+        "title":"DRIVER INFORMATION INTERFACE",
+        "items":[
+            {
+                "id":"technology-feat3-item1",
+                "title":"DRIVER INFORMATION INTERFACE",
+                "description":"A coloured LCD screen positioned right behind the steering wheel displays what's playing, who's calling and almost everything else you need to know including outside temperature, average fuel consumption, trip meter and distance to empty.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-driver-information-interface-2x2.jpg"
+            },
+            {
+                "id":"performance-feat3-item2",
+                "title":"STEERING-WHEEL MOUNTED CONTROLS",
+                "description":"Your eyes need never leave the road with steering-wheel mounted controls across the range. With just the touch of a button you can seamlessly control key features like audio and hands-free telephone*. And with a touch-sensitive volume control, finding the perfect pitch is as easy as a swipe up or down.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-driver-information-interface-steering-wheel-mounted-controls.jpg"
+            }
+        ],
+        "disclaimer":"*Hands-free phone requires compatible Bluetooth device."
+    },
+    {
+        "id":"technology-feat4",
+        "title":"COMFORT & CONVENIENCE",
+        "items":[
+            {
+                "id":"technology-feat4-item1",
+                "title":"ELECTRIC PARK BRAKE",
+                "description":"Simpler and more convenient, the Electric Parking Brake frees up space, allowing an extended armrest area.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-comfort-and-convience-electric-park-brake-2x2.jpg"
+            },
+            {
+                "id":"technology-feat4-item2",
+                "title":"HEATED SEATS",
+                "description":"The leather-appointed*, heated front seats in the RS and VTi-LX offer an extra touch of comfort and luxury with a choice of two individual temperature settings.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-comfort-and-convience-electric-heated-seats.jpg"
+            },
+            {
+                "id":"technology-feat4-item3",
+                "title":"CLIMATE CONTROL",
+                "description":"With climate control as standard, simply set the desired cabin temperature and the Civic will do the rest. VTi-L and above feature dual-zone climate control for the optimal comfort of both front-seat occupants. For ease of use, the central touchscreen can also be used to operate.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-comfort-and-convience-electric-climate-contorl.jpg"
+            }
+        ],
+        "disclaimer":"*Leather appointed means some parts of the seats may contain non-leather materials."
+    },
+    {
+        "id":"technology-feat5",
+        "title":"SMART ENTRY AND START",
+        "items":[
+            {
+                "id":"technology-feat5-item1",
+                "title":"PUSH START",
+                "description":"Once, inside you need only push the START button while pressing the brake pedal to start the engine. Available on VTi-S models and above.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-keyless-entry-push-start.jpg"
+            },
+            {
+                "id":"technology-feat5-item2",
+                "title":"SMART KEYLESS ENTRY",
+                "description":"As long as the key fob is in your possession, VTi-S models and above will sense your approach and unlock the doors as soon as you touch the front handles or boot release.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-keyless-entry-key.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"technology-feat6",
+        "title":"SEE WHAT'S AROUND YOU",
+        "items":[
+            {
+                "id":"technology-feat6-item1",
+                "title":"MULTI-ANGLE REAR-VIEW CAMERA",
+                "description":"Shift into reverse and the multi-angle rear-view camera automatically comes to life on the 7-inch display. With up to three views to choose from and guidance lines to plot your projected path, it's your new best friend in the face of tight spots.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-cameras-multi-angle-reversing-camera.jpg"
+            },
+            {
+                "id":"technology-feat6-item2",
+                "title":"LANEWATCH",
+                "description":"Designed to minimise one of the most notorious blind spots, LaneWatch really has got your back. Mounted beneath your lefthand door mirror, the blind spot camera projects vision on screen from the moment you signal left or push a button. Available on VTi-S and above.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-cameras-lane-watch.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"safety-feat1",
+        "title":"HONDA SENSING*",
+        "items":[
+            {
+                "id":"safety-feat1-item1",
+                "title":"OVERVIEW",
+                "description":"Standard on the VTi-LX, this intelligent suite of driver-assist technologies* is designed to help improve your situational awareness, and, in some cases, intervene to help avoid a collision or lessen its severity.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-honda-sensing0.jpg"
+            },
+            {
+                "id":"safety-feat1-item2",
+                "title":"FORWARD COLLISION WARNING",
+                "description":"Looks for vehicles in front of you and warns you if there's a risk of collision.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-honda-sensing-forward-collision-warning.jpg"
+            },
+            {
+                "id":"safety-feat1-item3",
+                "title":"COLLISION MITIGATION BRAKING SYSTEM",
+                "description":"Helps to mitigate the severity of an unavoidable accident by automatically applying strong brake pressure when needed.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-honda-sensing-collision-mitigation-braking-system.jpg"
+            },
+            {
+                "id":"safety-feat1-item4",
+                "title":"LANE DEPARTURE WARNING",
+                "description":"Reads road markings and alerts you visually and audibly if you cross the lanes without indicating.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-honda-sensing-lane-departure-warning.jpg"
+            },
+            {
+                "id":"safety-feat1-item5",
+                "title":"ROAD DEPARTURE MITIGATION SYSTEM",
+                "description":"Senses if you're drifting away from the road without signalling and gently corrects your steering or braking to help keep you on track.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-honda-sensing-road-departure-mitigation-system.jpg"
+            },
+            {
+                "id":"safety-feat1-item6",
+                "title":"LANE KEEP ASSIST SYSTEM",
+                "description":"Takes the stress out of long drives by subtly reinforcing your steering to help keep your centered in your lane.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-honda-sensing-lane-keep-assist-system.jpg"
+            },
+            {
+                "id":"safety-feat1-item7",
+                "title":"ADAPTIVE CRUISE CONTROL WITH LOW-SPEED FOLLOW",
+                "description":"Helps you maintain a set speed and following distance, even in stop and start traffic conditions.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-honda-sensing-adaptive-cruise-control-with-low-speed-follow.jpg"
+            }
+        ],
+        "disclaimer":"*Honda Sensing technologies are driver-assist technologies and should not be used in place of safe driving practices. Drivers should continue to monitor the road at all times. The accuracy and operation of Honda Sensing technologies may vary based on weather, speed, traffic, road conditions, markings and other factors.<br><br>Images are for illustrative purposes only."
+    },
+    {
+        "id":"safety-feat2",
+        "title":"ADVANCED COMPATIBILITY ENGINEERING (ACE)",
+        "items":[
+            {
+                "id":"safety-feat2-item1",
+                "title":"ADVANCED COMPATIBILITY ENGINEERING (ACE)",
+                "description":"The Civic has been designed with an innovative body structure, engineered to help absorb and deflect the force of a frontal collision away from the passenger compartment, improving the safety of every occupant.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-technology-cameras-multi-angle-reversing-camera.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"safety-feat3",
+        "title":"EMERGENCY STOP SIGNAL (ESS)",
+        "items":[
+            {
+                "id":"safety-feat3-item1",
+                "title":"EMERGENCY STOP SIGNAL (ESS)",
+                "description":"If an emergency situation forces you to brake heavily, drivers behind you need as much warning as possible. ESS does just that, automatically flashing the hazard lights in the event of hard braking to reduce the chance of a rear-end collision.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-emergency-stop-signal.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"safety-feat4",
+        "title":"SIX AIRBAGS",
+        "items":[
+            {
+                "id":"safety-feat4-item1",
+                "title":"SIX AIRBAGS",
+                "description":"The clever Honda i-SRS driver airbag system inflates at different rates depending on crash severity, seat belt usage and a host of other factors to help keep you safe behind the wheel. Dual front, side and full-length curtain airbags are standard.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-airbags.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"safety-feat5",
+        "title":"HILL START ASSIST (HSA)",
+        "items":[
+            {
+                "id":"safety-feat5-item1",
+                "title":"HILL START ASSIST (HSA)",
+                "description":"Hill Start Assist prevents 'roll back' when starting on an incline. The system controls brake pressure, keeping the car stationary for a moment after you release the brake pedal.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-hill-start-assit.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"safety-feat6",
+        "title":"VEHICLE STABILITY ASSIST (VSA)",
+        "items":[
+            {
+                "id":"safety-feat6-item1",
+                "title":"VEHICLE STABILITY ASSIST (VSA)",
+                "description":"This technology helps keep the Civic on course in adverse driving conditions by detecting, then mitigating, potential understeer or oversteer. When necessary, VSA automatically reduces engine power and manages brake pressure to individual wheels to help regain control.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-vehicle-stability-assist.jpg"
+            }
+        ],
+        "disclaimer":""
+    },
+    {
+        "id":"safety-feat7",
+        "title":"TYRE DEFLATION WARNING SYSTEM",
+        "items":[
+            {
+                "id":"safety-feat7-item1",
+                "title":"TYRE DEFLATION WARNING SYSTEM",
+                "description":"This clever technology alerts you to an abnormal decrease in tyre pressure.",
+                "imgSrc":"/content/dam/honda/cars/models/civic-sedan-2016/showroom/content-grid/civic-safety-tyre-deflation-warning.jpg"
+            }
+        ],
+        "disclaimer":""
+    }
+]

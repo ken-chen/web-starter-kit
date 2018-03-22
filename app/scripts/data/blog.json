@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "heading": "Article 1",
+      "body": "Qui reprehenderit ipsum sunt commodo et. Id aliquip non sint duis qui ut ex laborum est et velit cupidatat aliqua. Elit occaecat exercitation sint velit velit. Velit laboris ex ipsum consequat laboris aliquip aliqua. Id occaecat duis sit aliquip sint pariatur. Sunt cillum consequat dolor pariatur amet in dolor ullamco pariatur nostrud ullamco cillum est est.",
+      "url": "#",
+      "authorName": "Brandon Stark",
+      "categories": [
+        "Cat 1"
+      ],
+      "articleDate": "2017-09-04",
+      "imageUrlSmall":"",
+      "imageUrlMedium": "",
+      "imageUrlLarge":""
+    },
+    {
+      "heading": "Article 2",
+      "body": "Mollit laborum qui quis id non id id magna nisi. Non aute non irure nulla sint aliqua adipisicing ipsum cupidatat veniam. Laboris et culpa dolor aute enim aliqua eu dolore dolor. Aliquip ipsum ea ipsum dolore laborum. Laboris exercitation voluptate enim sunt aute esse dolore. Amet cillum id elit elit sunt.",
+      "url": "#",
+      "authorName": "Jonny Cash",
+      "categories": [
+        "Cat 2", "Cat 1"
+      ],
+      "articleDate": "2017-09-04",
+      "imageUrlSmall":"",
+      "imageUrlMedium": "",
+      "imageUrlLarge":""
+    },
+    {
+      "heading": "Article 3",
+      "body": "Exercitation adipisicing excepteur cillum ullamco ullamco occaecat nostrud. Mollit aliquip Lorem consequat qui minim ipsum consequat. Tempor enim labore tempor nostrud excepteur aute.",
+      "url": "#",
+      "authorName": "Jonny Cash",
+      "categories": [
+        "Cat 2"
+      ],
+      "articleDate": "2017-09-04",
+      "imageUrlSmall":"",
+      "imageUrlMedium": "",
+      "imageUrlLarge":""
+    }
+  ],
+  "hasMoreArticles": true
+}

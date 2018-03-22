@@ -1,0 +1,1915 @@
+{
+  "title": "civic-type-r",
+  "year": "2017",
+  "code": "civic-type-r",
+  "variants": [
+    {
+      "title": "TYPE-R",
+      "image": "",
+      "code": "civic-type-r-2017-type-r",
+      "isDefaultVariant": true,
+      "disclaimer": "disclaimer",
+      "specification_image": "/content/dam/honda/cars/models/civic-hatch-2017/products/specs/16YM_CivicHatch_VTiLX_RR_F34L_RGB.png",
+      "specification_title": "TYPE-R",
+      "specifications": [
+        {
+          "title": "POWERTRAIN",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-powertrain",
+          "categories": [
+            {
+              "title": "Engine",
+              "code": "civic-type-r-2017-engine",
+              "sub_categories": [
+                {
+                  "title": "Engine type",
+                  "code": "civic-type-r-2017-engine_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "SOHC i-VTEC In line 4-cylinder",
+                      "code": "civic-type-r-2017-sohc_i-vtec_in_line_4-cylinder",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "DOHC VTEC Turbo In line 4-cylinder",
+                      "code": "civic-type-r-2017-dohc_vtec_turbo_in_line_4-cylinder",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Engine capacity",
+                  "code": "civic-type-r-2017-engine_capacity",
+                  "text_value": "2.0L - 1996cc",
+                  "has_value": false
+                },
+                {
+                  "title": "Compression ratio",
+                  "code": "civic-type-r-2017-compression_ratio",
+                  "text_value": "9.8",
+                  "has_value": false
+                },
+                {
+                  "title": "Bore x stroke (mm)",
+                  "code": "civic-type-r-2017-bore_x_stroke_(mm)",
+                  "text_value": "86x85.9",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel type (minimum recommended)",
+                  "code": "civic-type-r-2017-fuel_type_(minimum_recommended)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "premium unleaded (RON 95)",
+                      "code": "civic-type-r-2017-premium_unleaded_(ron_95)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Fuel supply system",
+                  "code": "civic-type-r-2017-fuel_supply_system",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Honda Programmed Fuel Injection",
+                      "code": "civic-type-r-2017-honda_programmed_fuel_injection",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "direct injection",
+                      "code": "civic-type-r-2017-direct_injection",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Drive By Wire throttle (DBW)",
+                  "code": "civic-type-r-2017-drive_by_wire_throttle_(dbw)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Transmission",
+              "code": "civic-type-r-2017-transmission",
+              "sub_categories": [
+                {
+                  "title": "Manual",
+                  "code": "civic-type-r-2017-manual",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "6-speed with rev matching function",
+                      "code": "civic-type-r-2017-6-speed_with_rev_matching_function",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Automatic",
+                  "code": "civic-type-r-2017-automatic",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Continuously Variable Transmission (CVT)",
+                      "code": "civic-type-r-2017-continuously_variable_transmission_(cvt)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "with steering wheel-mounted paddle shifters",
+                      "code": "civic-type-r-2017-with_steering_wheel-mounted_paddle_shifters",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Helical Limited slip differential (LSD)",
+                  "code": "civic-type-r-2017-helical_limited_slip_differential_(lsd)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PERFORMANCE AND FUEL ECONOMY",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-performance",
+          "categories": [
+            {
+              "title": "Performance",
+              "code": "civic-type-r-2017-performance",
+              "sub_categories": [
+                {
+                  "title": "Maximum power (kW@rpm)",
+                  "code": "civic-type-r-2017-maximum_power_(kw@rpm)",
+                  "text_value": "228 @ 6500",
+                  "has_value": false
+                },
+                {
+                  "title": "Maximum torque (Nm @rpm)",
+                  "code": "civic-type-r-2017-maximum_torque_(nm_@rpm)",
+                  "text_value": "4000 @ 2500-4500",
+                  "has_value": false
+                },
+                {
+                  "title": "3-Mode Drive system (Comfort/Sport/+R)",
+                  "code": "civic-type-r-2017-3-mode_drive_system_(comfort-sport-+r)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Fuel economy",
+              "code": "civic-type-r-2017-fuel_economy",
+              "sub_categories": [
+                {
+                  "title": "Fuel consumption (litres/100km)*",
+                  "code": "civic-type-r-2017-fuel_consumption_(litres-100km)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "combined",
+                      "code": "civic-type-r-2017-combined",
+                      "text_value": "8.8"
+                    },
+                    {
+                      "title": "urban",
+                      "code": "civic-type-r-2017-urban",
+                      "text_value": "11.7"
+                    },
+                    {
+                      "title": "extra urban",
+                      "code": "civic-type-r-2017-extra_urban",
+                      "text_value": "7.1"
+                    }
+                  ]
+                },
+                {
+                  "title": "CO2 emissions (g/km)*",
+                  "code": "civic-type-r-2017-co2_emissions_(g-km)",
+                  "text_value": "200",
+                  "has_value": false
+                },
+                {
+                  "title": "Emission standard",
+                  "code": "civic-type-r-2017-emission_standard",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "ADR 79/04 (Euro 5)",
+                      "code": "civic-type-r-2017-adr_79-04_(euro_5)",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CHASSIS",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-chassis",
+          "categories": [
+            {
+              "title": "Suspension",
+              "code": "civic-type-r-2017-suspension",
+              "sub_categories": [
+                {
+                  "title": "MacPherson with Dual Axis Strut (front)",
+                  "code": "civic-type-r-2017-macpherson with_dual_axis_strut (front)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Multi-link (rear)",
+                  "code": "civic-type-r-2017-multi-link_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Adaptive damper system",
+                  "code": "civic-type-r-2017-adaptive_damper_system",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Steering",
+              "code": "civic-type-r-2017-steering",
+              "sub_categories": [
+                {
+                  "title": "Dual Pinion Motion Adaptive Electric Power Steering",
+                  "code": "civic-type-r-2017-dual_pinion_motion_adaptive_electric_power_steering",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Brakes",
+              "code": "civic-type-r-2017-brakes",
+              "sub_categories": [
+                {
+                  "title": "Ventilated disc (front)",
+                  "code": "civic-type-r-2017-ventilated_disc_(front)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "350mm ventilated disc brakes (front) with Brembo 4-Piston Aluminum Front Brake Calipers",
+                  "code": "civic-type-r-2017-350mm_ventilated_disc_brakes_(front)_with_brembo_4-piston_aluminum_front_brake_calipers",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Solid disc (rear)",
+                  "code": "civic-type-r-2017-solid_disc_(rear)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "305mm solid disc brakes (rear)",
+                  "code": "civic-type-r-2017-305mm_solid_disc brakes_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXTERIOR",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-exterior",
+          "categories": [
+            {
+              "title": "Styling",
+              "code": "civic-type-r-2017-styling",
+              "sub_categories": [
+                {
+                  "title": "Aero styling",
+                  "code": "civic-type-r-2017-aero_styling",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Carbon Fibre Effect Front Splitter",
+                      "code": "civic-type-r-2017-carbon_fibre_effect_front splitter",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Carbon Fibre Effect Rear Diffuser",
+                      "code": "civic-type-r-2017-carbon_fibre_effect rear diffuser",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Carbon Fibre Effect side skirts with red striping",
+                      "code": "civic-type-r-2017-carbon_fibre_effect_side_skirts_with_red_striping",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Antenna",
+                  "code": "civic-type-r-2017-antenna",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "shark fin",
+                      "code": "civic-type-r-2017-shark_fin",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Door handles",
+                  "code": "civic-type-r-2017-door_handles",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "body coloured",
+                      "code": "civic-type-r-2017-body_coloured",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Door mirrors",
+                  "code": "civic-type-r-2017-door_mirrors",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "body coloured",
+                      "code": "civic-type-r-2017-body_coloured",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "electrically adjustable",
+                      "code": "civic-type-r-2017-electrically_adjustable",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "integrated LED indicators",
+                      "code": "civic-type-r-2017-integrated_led_indicators",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "electrically retractable",
+                      "code": "civic-type-r-2017-electrically_retractable",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Exhaust pipe finisher",
+                  "code": "civic-type-r-2017-exhaust_pipe_finisher",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Exhaust",
+                  "code": "civic-type-r-2017-exhaust",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "single",
+                      "code": "civic-type-r-2017-single",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "twin",
+                      "code": "civic-type-r-2017-twin",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Central twin",
+                      "code": "civic-type-r-2017-central_twin",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Central triple",
+                      "code": "civic-type-r-2017-central_triple",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tailgate spoiler",
+                  "code": "civic-type-r-2017-tailgate_spoiler",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "black",
+                      "code": "civic-type-r-2017-black",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "body coloured",
+                      "code": "civic-type-r-2017-body_coloured",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Rear wing spoiler",
+                  "code": "civic-type-r-2017-rear_wing_spoiler",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Black with body coloured sides",
+                      "code": "civic-type-r-2017-black_with_body_coloured_sides",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Grille",
+                  "code": "civic-type-r-2017-grille",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "piano black",
+                      "code": "civic-type-r-2017-piano_black",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Piano black B-Pillar finish",
+                  "code": "civic-type-r-2017-piano_black_b-pillar_finish",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Side skirts",
+                  "code": "civic-type-r-2017-side_skirts",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "piano black",
+                      "code": "civic-type-r-2017-piano_black",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Front under spoiler",
+                  "code": "civic-type-r-2017-front_under_spoiler",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Piano Black",
+                      "code": "civic-type-r-2017-piano_black",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Rear under spoiler",
+                  "code": "civic-type-r-2017-rear_under_spoiler",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Piano Black",
+                      "code": "civic-type-r-2017-piano_black",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Rear spoiler",
+                  "code": "civic-type-r-2017-rear_spoiler",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Piano Black",
+                      "code": "civic-type-r-2017-piano_black",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Vortex generators (rear roofline)",
+                  "code": "civic-type-r-2017-vortex_generators_(rear_roofline)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Vertical air intakes (front)",
+                  "code": "civic-type-r-2017-vertical_air_intakes_(front)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Hood scoop",
+                  "code": "civic-type-r-2017-hood_scoop",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Red Honda \"H\" badges (front/rear)",
+                  "code": "civic-type-r-2017-red_honda_\"h\"_badges_(front-rear)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Type R badges (front/rear)",
+                  "code": "civic-type-r-2017-type_r_badges_(front-rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Convenience",
+              "code": "civic-type-r-2017-convenience",
+              "sub_categories": [
+                {
+                  "title": "Rear window demister",
+                  "code": "civic-type-r-2017-rear_window_demister",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Wipers (front)",
+                  "code": "civic-type-r-2017-wipers_(front)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "auto rain-sensing",
+                      "code": "civic-type-r-2017-auto_rain-sensing",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wiper (rear)",
+                  "code": "civic-type-r-2017-wiper_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "One touch tilt & openable electric sunroof",
+                  "code": "civic-type-r-2017-one_touch_tilt_&_openable_electric_sunroof",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "with remote key fob operation",
+                      "code": "civic-type-r-2017-with_remote_key_fob_operation",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "One-touch release fuel filler door",
+                  "code": "civic-type-r-2017-one-touch_release_fuel_filler_door",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel filler - Capless",
+                  "code": "civic-type-r-2017-fuel_filler_-_capless",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Lighting",
+              "code": "civic-type-r-2017-lighting",
+              "sub_categories": [
+                {
+                  "title": "Front fog lights",
+                  "code": "civic-type-r-2017-front_fog_lights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "halogen",
+                      "code": "civic-type-r-2017-halogen",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "LED",
+                      "code": "civic-type-r-2017-led",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Headlights",
+                  "code": "civic-type-r-2017-headlights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "halogen projector",
+                      "code": "civic-type-r-2017-halogen_projector",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "LED",
+                      "code": "civic-type-r-2017-led",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "auto off coming home/leaving home function",
+                      "code": "civic-type-r-2017-auto_off_coming_home-leaving_home_function",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "auto dusk sensing",
+                      "code": "civic-type-r-2017-auto_dusk_sensing",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "auto-levelling",
+                      "code": "civic-type-r-2017-auto-levelling",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "LED Daytime Running Lights (DRL)",
+                      "code": "civic-type-r-2017-led_daytime_running_lights_(drl)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tail lights",
+                  "code": "civic-type-r-2017-tail_lights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "integrated LED light bars",
+                      "code": "civic-type-r-2017-integrated_led_light_bars",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INTERIOR",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-interior",
+          "categories": [
+            {
+              "title": "Driver aids",
+              "code": "civic-type-r-2017-driver_aids",
+              "sub_categories": [
+                {
+                  "title": "Cruise control with speed limiter",
+                  "code": "civic-type-r-2017-cruise_control_with_speed_limiter",
+                  "text_value": "Adaptive Cruise Control",
+                  "has_value": false
+                },
+                {
+                  "title": "Eco Assist system (speedometer display)",
+                  "code": "civic-type-r-2017-eco_assist_system_(speedometer_display)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "ECON mode",
+                  "code": "civic-type-r-2017-econ_mode",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "LCD Driver Information Interface with colour display",
+                  "code": "civic-type-r-2017-lcd_driver_information_interface_with_colour_display",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "odometer",
+                      "code": "civic-type-r-2017-odometer",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "trip meter (A/B)",
+                      "code": "civic-type-r-2017-trip_meter_(a-b)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "instant fuel economy",
+                      "code": "civic-type-r-2017-instant_fuel_economy",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "average fuel economy",
+                      "code": "civic-type-r-2017-average_fuel_economy",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "range",
+                      "code": "civic-type-r-2017-range",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "engine oil life",
+                      "code": "civic-type-r-2017-engine_oil_life",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "average speed",
+                      "code": "civic-type-r-2017-average_speed",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "elapsed time",
+                      "code": "civic-type-r-2017-elapsed_time",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "G-force meter",
+                      "code": "civic-type-r-2017-g-force_meter",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "stopwatch (Lap timer)",
+                      "code": "civic-type-r-2017-stopwatch_(lap_timer)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "shift light indicator",
+                      "code": "civic-type-r-2017-shift_light_indicator",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "boost meter",
+                      "code": "civic-type-r-2017-boost_meter",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "throttle postition indicator",
+                      "code": "civic-type-r-2017-throttle_postition_indicator",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "brake pressure (MPa)",
+                      "code": "civic-type-r-2017-brake_pressure_(mpa)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "outside temperature display",
+                      "code": "civic-type-r-2017-outside_temperature_display",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "customisable speed alarms (x2)",
+                      "code": "civic-type-r-2017-customisable_speed_alarms_(x2)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "phone",
+                      "code": "civic-type-r-2017-phone",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "radio",
+                      "code": "civic-type-r-2017-radio",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "turn-by-turn navigation",
+                      "code": "civic-type-r-2017-turn-by-turn_navigation",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Steering wheel-mounted controls",
+                  "code": "civic-type-r-2017-steering_wheel-mounted_controls",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Comfort and convenience",
+              "code": "civic-type-r-2017-comfort_and_convenience",
+              "sub_categories": [
+                {
+                  "title": "Accessory power outlet (12v)",
+                  "code": "civic-type-r-2017-accessory_power_outlet_(12v)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Air conditioning",
+                  "code": "civic-type-r-2017-air_conditioning",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "single-zone climate control",
+                      "code": "civic-type-r-2017-single-zone_climate_control",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "dual-zone climate control",
+                      "code": "civic-type-r-2017-dual-zone_climate_control",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Drilled alloy sports pedals",
+                  "code": "civic-type-r-2017-drilled_alloy_sports_pedals",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Driver's footrest",
+                  "code": "civic-type-r-2017-driver's_footrest",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Dust and pollen filter",
+                  "code": "civic-type-r-2017-dust_and_pollen_filter",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electric parking brake with brake hold function",
+                  "code": "civic-type-r-2017-electric_parking_brake_with_brake_hold_function",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Power windows",
+                  "code": "civic-type-r-2017-power_windows",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "auto up/down function (driver and all passengers)",
+                      "code": "civic-type-r-2017-auto_up-down_function_(driver_and_all_passengers)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "key FOB operation (all windows remote down with manual up)",
+                      "code": "civic-type-r-2017-key_fob_operation_(all_windows_remote_down_with_manual_up)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "key FOB operation (all windows remote up/down)",
+                      "code": "civic-type-r-2017-key_fob_operation_(all_windows_remote_up-down)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Privacy glass",
+                  "code": "civic-type-r-2017-privacy_glass",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "cargo",
+                      "code": "civic-type-r-2017-cargo",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "rear passenger area",
+                      "code": "civic-type-r-2017-rear_passenger_area",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Rear view mirror",
+                  "code": "civic-type-r-2017-rear_view_mirror",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "day/night",
+                      "code": "civic-type-r-2017-day-night",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "auto-dimming",
+                      "code": "civic-type-r-2017-auto-dimming",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Remote central locking",
+                  "code": "civic-type-r-2017-remote_central_locking",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Smart keyless entry with push start button",
+                  "code": "civic-type-r-2017-smart_keyless_entry_with_push_start_button",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Sunvisor vanity mirror",
+                  "code": "civic-type-r-2017-sunvisor_vanity_mirror",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "driver and front passenger",
+                      "code": "civic-type-r-2017-driver_and_front_passenger",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "illuminated (driver and front passenger)",
+                      "code": "civic-type-r-2017-illuminated_(driver_and_front_passenger)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tilt and telescopic steering column",
+                  "code": "civic-type-r-2017-tilt_and_telescopic_steering_column",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Grab rail",
+                  "code": "civic-type-r-2017-grab_rail",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "x 4",
+                      "code": "civic-type-r-2017-x_4",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Interior lighting",
+              "code": "civic-type-r-2017-interior_lighting",
+              "sub_categories": [
+                {
+                  "title": "Map lights",
+                  "code": "civic-type-r-2017-map_lights",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Interior light",
+                  "code": "civic-type-r-2017-interior_light",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Cargo area light",
+                  "code": "civic-type-r-2017-cargo_area_light",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Seating extras",
+              "code": "civic-type-r-2017-seating_extras",
+              "sub_categories": [
+                {
+                  "title": "Driver's seat",
+                  "code": "civic-type-r-2017-driver's_seat",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "manual height adjustment",
+                      "code": "civic-type-r-2017-manual_height_adjustment",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "8-way power adjustment",
+                      "code": "civic-type-r-2017-8-way_power_adjustment",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Front passenger's seat",
+                  "code": "civic-type-r-2017-front_passenger's_seat",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "adjustable head restraint",
+                      "code": "civic-type-r-2017-adjustable_head_restraint",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Front seats",
+                  "code": "civic-type-r-2017-front_seats",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "heating function",
+                      "code": "civic-type-r-2017-heating_function",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Rear seats",
+                  "code": "civic-type-r-2017-rear_seats",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "60/40 split fold rear seats",
+                      "code": "civic-type-r-2017-60-40_split_fold_rear_seats",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "centre fold down armrest - 2 cup holders",
+                      "code": "civic-type-r-2017-centre_fold_down_armrest_-_2_cup_holders",
+                      "flag": "no"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Interior trim",
+              "code": "civic-type-r-2017-interior_trim",
+              "sub_categories": [
+                {
+                  "title": "Seat trim material",
+                  "code": "civic-type-r-2017-seat_trim_material",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "black fabric",
+                      "code": "civic-type-r-2017-black_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black premium fabric",
+                      "code": "civic-type-r-2017-black_premium_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black leather-appointed<sup>1</sup>",
+                      "code": "civic-type-r-2017-black_leather-appointed<sup>1<-sup>",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Front seats",
+                  "code": "civic-type-r-2017-front_seats",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Type R sports bucket seats with red suede style fabric",
+                      "code": "civic-type-r-2017-type_r_sports_bucket_seats_with_red_suede_style_fabric",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Rear seats",
+                  "code": "civic-type-r-2017-rear_seats",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Black fabric with red stitching",
+                      "code": "civic-type-r-2017-black_fabric_with_red_stitching",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black and red leather-wrapped steering wheel",
+                  "code": "civic-type-r-2017-black_and_red_leather-wrapped_steering_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Leather-wrapped gear shift knob",
+                  "code": "civic-type-r-2017-leather-wrapped_gear_shift_knob",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Alloy gear shift knob",
+                  "code": "civic-type-r-2017-alloy_gear_shift_knob",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Drilled alloy sports pedals",
+                  "code": "civic-type-r-2017-drilled_alloy_sports_pedals",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Red seatbelts",
+                  "code": "civic-type-r-2017-red_seatbelts",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Type R serial number plate",
+                  "code": "civic-type-r-2017-type_r_serial_number_plate",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Black suede style door trim with red stitching (front)",
+                  "code": "civic-type-r-2017-black_suede_style_door_trim_with_red_stitching_(front)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Carbon fibre effect panels (front door/dash)",
+                  "code": "civic-type-r-2017-carbon_fibre_effect_panels_(front_door-dash)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Storage",
+              "code": "civic-type-r-2017-storage",
+              "sub_categories": [
+                {
+                  "title": "Beverage holders (x8)",
+                  "code": "civic-type-r-2017-beverage_holders_(x8)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Beverage holders (x6)",
+                  "code": "civic-type-r-2017-beverage_holders_(x6)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Coat hook (x2)",
+                  "code": "civic-type-r-2017-coat_hook_(x2)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Seat back pocket",
+                  "code": "civic-type-r-2017-seat_back_pocket",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "passenger side",
+                      "code": "civic-type-r-2017-passenger_side",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tonneau cover",
+                  "code": "civic-type-r-2017-tonneau_cover",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Retractable cargo cover",
+                  "code": "civic-type-r-2017-retractable_cargo_cover",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Sunvisor ticket holder (driver-side)",
+                  "code": "civic-type-r-2017-sunvisor_ticket_holder_(driver-side)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Front console (with 2 cup holders)",
+                  "code": "civic-type-r-2017-front_console_(with_2_cup_holders)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Cargo restraint hooks (x4)",
+                  "code": "civic-type-r-2017-cargo_restraint_hooks_(x4)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Luggage hook (x1)",
+                  "code": "civic-type-r-2017-luggage_hook_(x1)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INFOTAINMENT",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-infotainment",
+          "categories": [
+            {
+              "title": "Advanced Display Audio (7\" touchscreen) featuring",
+              "code": "civic-type-r-2017-advanced_display_audio_(7\"_touchscreen)_featuring",
+              "sub_categories": [
+                {
+                  "title": "AM/FM radio",
+                  "code": "civic-type-r-2017-am-fm_radio",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Android® Auto with Google™ Voice search<sup>#</sup>",
+                  "code": "civic-type-r-2017-android®_auto_with_google™_voice_search<sup>#<-sup>",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Apple CarPlay® with Siri® Eyes Free mode<sup>‡</sup>",
+                  "code": "civic-type-r-2017-apple_carplay®_with_siri®_eyes_free_mode<sup>‡<-sup>",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Bluetooth® connectivity with audio streaming°",
+                  "code": "civic-type-r-2017-bluetooth®_connectivity_with_audio_streaming°",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Digital Radio (DAB+)^",
+                  "code": "civic-type-r-2017-digital_radio_(dab+)^",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Garmin® satellite navigation˜ (with SUNA<sup>≠</sup> Live Traffic updates)",
+                  "code": "civic-type-r-2017-garmin®_satellite_navigation˜_(with_suna<sup>≠<-sup>_live_traffic_updates)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "HDMI connectivity (1 port)",
+                  "code": "civic-type-r-2017-hdmi_connectivity_(1_port)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "USB connectivity (2 ports)",
+                  "code": "civic-type-r-2017-usb_connectivity_(2_ports)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Speakers",
+              "code": "civic-type-r-2017-speakers",
+              "sub_categories": [
+                {
+                  "title": "160W sound system (4 speakers and 4 tweeters)",
+                  "code": "civic-type-r-2017-160w_sound_system_(4_speakers_and_4_tweeters)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "452W premium sound system (12 speakers inc. subwoofer)",
+                  "code": "civic-type-r-2017-452w_premium_sound_system_(12_speakers_inc._subwoofer)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Speed-sensitive Volume Compensation (SVC)",
+                  "code": "civic-type-r-2017-speed-sensitive_volume_compensation_(svc)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SAFETY",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-safety",
+          "categories": [
+            {
+              "title": "Active safety",
+              "code": "civic-type-r-2017-active_safety",
+              "sub_categories": [
+                {
+                  "title": "Anti-lock Braking System (ABS)",
+                  "code": "civic-type-r-2017-anti-lock_braking_system_(abs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Agile Handling Assist System (AHAS)",
+                  "code": "civic-type-r-2017-agile_handling_assist_system_(ahas)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Brake Assist system (BA)",
+                  "code": "civic-type-r-2017-brake_assist_system_(ba)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electronic Brake-force Distribution (EBD)",
+                  "code": "civic-type-r-2017-electronic_brake-force_distribution_(ebd)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Stop Signal (ESS)",
+                  "code": "civic-type-r-2017-emergency_stop_signal_(ess)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Hill Start Assist (HSA)",
+                  "code": "civic-type-r-2017-hill_start_assist_(hsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Honda Sensing<sup>></sup> featuring",
+                  "code": "civic-type-r-2017-honda_sensing<sup>><-sup>_featuring",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Forward Collision Warning (FCW)",
+                      "code": "civic-type-r-2017-forward_collision_warning_(fcw)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Collision Mitigation Braking System (CMBS)",
+                      "code": "civic-type-r-2017-collision_mitigation_braking_system_(cmbs)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Lane Departure Warning (LDW)",
+                      "code": "civic-type-r-2017-lane_departure_warning_(ldw)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Lane Keep Assist System (LKAS)",
+                      "code": "civic-type-r-2017-lane_keep_assist_system_(lkas)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Road Departure Mitigation System (RDM)",
+                      "code": "civic-type-r-2017-road_departure_mitigation_system_(rdm)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Adaptive Cruise Control (ACC)",
+                      "code": "civic-type-r-2017-adaptive_cruise_control_(acc)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Adaptive Cruise Control (ACC) with Low-Speed Follow (LSF)",
+                      "code": "civic-type-r-2017-adaptive_cruise_control_(acc)_with_low-speed_follow_(lsf)",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "LaneWatch",
+                  "code": "civic-type-r-2017-lanewatch",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Traction Control System (TCS)",
+                  "code": "civic-type-r-2017-traction_control_system_(tcs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Vehicle Stability Assist (VSA)",
+                  "code": "civic-type-r-2017-vehicle_stability_assist_(vsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre Deflation Warning System (DWS)",
+                  "code": "civic-type-r-2017-tyre_deflation_warning_system_(dws)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Passive safety",
+              "code": "civic-type-r-2017-passive_safety",
+              "sub_categories": [
+                {
+                  "title": "Child restraint anchorages",
+                  "code": "civic-type-r-2017-child_restraint_anchorages",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "anchorage points (x2)",
+                      "code": "civic-type-r-2017-anchorage_points_(x2)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "ISOFIX (up to 2)",
+                      "code": "civic-type-r-2017-isofix_(up_to_2)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Child-proof rear door locks",
+                  "code": "civic-type-r-2017-child-proof_rear_door_locks",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Head restraints (x5)",
+                  "code": "civic-type-r-2017-head_restraints_(x5)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Head restraints (x4)",
+                  "code": "civic-type-r-2017-head_restraints_(x4)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Seatbelts (3-point)",
+                  "code": "civic-type-r-2017-seatbelts_(3-point)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Emergency Locking Retractors (ELR) - all seats",
+                      "code": "civic-type-r-2017-emergency_locking_retractors_(elr)_-_all_seats",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Automatic Locking Retractors (ALR) - rear",
+                      "code": "civic-type-r-2017-automatic_locking_retractors_(alr)_-_rear",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Seatbelt reminder",
+                  "code": "civic-type-r-2017-seatbelt_reminder",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "driver and all passengers",
+                      "code": "civic-type-r-2017-driver_and_all_passengers",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "SRS airbags",
+                  "code": "civic-type-r-2017-srs_airbags",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "side",
+                      "code": "civic-type-r-2017-side",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "full-length curtain",
+                      "code": "civic-type-r-2017-full-length_curtain",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Parking aids",
+              "code": "civic-type-r-2017-parking_aids",
+              "sub_categories": [
+                {
+                  "title": "Parking sensors",
+                  "code": "civic-type-r-2017-parking_sensors",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-type-r-2017-rear",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Multi-angle reversing camera (3 modes)",
+                  "code": "civic-type-r-2017-multi-angle_reversing_camera_(3_modes)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "normal, wide, top-down",
+                      "code": "civic-type-r-2017-normal,_wide,_top-down",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "dynamic or fixed guidelines",
+                      "code": "civic-type-r-2017-dynamic_or_fixed_guidelines",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "dynamic guidelines",
+                      "code": "civic-type-r-2017-dynamic_guidelines",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Security",
+              "code": "civic-type-r-2017-security",
+              "sub_categories": [
+                {
+                  "title": "Engine immobiliser",
+                  "code": "civic-type-r-2017-engine_immobiliser",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Security alarm system",
+                  "code": "civic-type-r-2017-security_alarm_system",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "\"Walk away\" door locking",
+                  "code": "civic-type-r-2017-\"walk_away\"_door_locking",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DIMENSIONS, WEIGHTS AND CAPACITIES",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-dimensions,",
+          "categories": [
+            {
+              "title": "Dimensions",
+              "code": "civic-type-r-2017-dimensions",
+              "sub_categories": [
+                {
+                  "title": "Overall length (mm)",
+                  "code": "civic-type-r-2017-overall_length_(mm)",
+                  "text_value": "4557",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall width (mm)",
+                  "code": "civic-type-r-2017-overall_width_(mm)",
+                  "text_value": "1877",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall height (mm)",
+                  "code": "civic-type-r-2017-overall_height_(mm)",
+                  "text_value": "1421",
+                  "has_value": false
+                },
+                {
+                  "title": "Wheelbase (mm)",
+                  "code": "civic-type-r-2017-wheelbase_(mm)",
+                  "text_value": "2700",
+                  "has_value": false
+                },
+                {
+                  "title": "Track (mm)",
+                  "code": "civic-type-r-2017-track_(mm)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "text_value": "1599"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-type-r-2017-rear",
+                      "text_value": "1593"
+                    }
+                  ]
+                },
+                {
+                  "title": "Ground clearance (mm)",
+                  "code": "civic-type-r-2017-ground_clearance_(mm)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "unladen",
+                      "code": "civic-type-r-2017-unladen",
+                      "text_value": "132"
+                    }
+                  ]
+                },
+                {
+                  "title": "Minimum turning radius at wheel centre (m)",
+                  "code": "civic-type-r-2017-minimum_turning_radius_at_wheel_centre_(m)",
+                  "text_value": "5.89",
+                  "has_value": false
+                },
+                {
+                  "title": "Head room (mm)",
+                  "code": "civic-type-r-2017-head_room_(mm)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "text_value": "998"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-type-r-2017-rear",
+                      "text_value": "951"
+                    }
+                  ]
+                },
+                {
+                  "title": "Leg room (mm)",
+                  "code": "civic-type-r-2017-leg_room_(mm)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "text_value": "1074"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-type-r-2017-rear",
+                      "text_value": "913"
+                    }
+                  ]
+                },
+                {
+                  "title": "Shoulder room (mm)",
+                  "code": "civic-type-r-2017-shoulder_room_(mm)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "text_value": "1446"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-type-r-2017-rear",
+                      "text_value": "1398"
+                    }
+                  ]
+                },
+                {
+                  "title": "Hip room (mm)",
+                  "code": "civic-type-r-2017-hip_room_(mm)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-type-r-2017-front",
+                      "text_value": "1364"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-type-r-2017-rear",
+                      "text_value": "1240"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Weights",
+              "code": "civic-type-r-2017-weights",
+              "sub_categories": [
+                {
+                  "title": "Tare mass (kg)",
+                  "code": "civic-type-r-2017-tare_mass_(kg)",
+                  "text_value": "1390",
+                  "has_value": false
+                },
+                {
+                  "title": "Towing capacity (kg)",
+                  "code": "civic-type-r-2017-towing_capacity_(kg)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "trailer with brakes",
+                      "code": "civic-type-r-2017-trailer_with_brakes",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "trailer without brakes",
+                      "code": "civic-type-r-2017-trailer_without_brakes",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "ball down force",
+                      "code": "civic-type-r-2017-ball_down_force",
+                      "flag": "no"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Capacities",
+              "code": "civic-type-r-2017-capacities",
+              "sub_categories": [
+                {
+                  "title": "Boot capacity (litres in VDA standard)",
+                  "code": "civic-type-r-2017-boot_capacity_(litres_in_vda_standard)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "rear seat up",
+                      "code": "civic-type-r-2017-rear_seat_up",
+                      "text_value": "420"
+                    }
+                  ]
+                },
+                {
+                  "title": "Seating capacity",
+                  "code": "civic-type-r-2017-seating_capacity",
+                  "text_value": "4",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel tank capacity (L)",
+                  "code": "civic-type-r-2017-fuel_tank_capacity_(l)",
+                  "text_value": "47",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TYRES & WHEELS",
+          "disclaimers": [],
+          "code": "civic-type-r-2017-tyres",
+          "categories": [
+            {
+              "title": "Tyres",
+              "code": "civic-type-r-2017-tyres",
+              "sub_categories": [
+                {
+                  "title": "Tyre size",
+                  "code": "civic-type-r-2017-tyre_size",
+                  "text_value": "245/30 ZR20",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Wheels",
+              "code": "civic-type-r-2017-wheels",
+              "sub_categories": [
+                {
+                  "title": "Wheel type",
+                  "code": "civic-type-r-2017-wheel_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "steel",
+                      "code": "civic-type-r-2017-steel",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "alloy",
+                      "code": "civic-type-r-2017-alloy",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wheel design",
+                  "code": "civic-type-r-2017-wheel_design",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Black with red 'H' badge and red trim",
+                      "code": "civic-type-r-2017-black_with_red_'h'_badge_and_red_trim",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wheel size",
+                  "code": "civic-type-r-2017-wheel_size",
+                  "text_value": "20\"",
+                  "has_value": false
+                },
+                {
+                  "title": "Space saver spare wheel",
+                  "code": "civic-type-r-2017-space_saver_spare_wheel",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre repair kit (TRK)",
+                  "code": "civic-type-r-2017-tyre_repair_kit_(trk)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre type",
+                  "code": "civic-type-r-2017-tyre_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Continental SportContact6",
+                      "code": "civic-type-r-2017-continental_sportcontact6",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "WARRANTY",
+          "disclaimers": [
+            "<sup>=</sup>Honda warranties apply where due care is exercised by the owner and the vehicle is maintained in accordance with the Owner’s Warranty and Service Manual. Please visit honda.com.au/warranty for full terms and conditions."
+          ],
+          "code": "civic-type-r-2017-warranty",
+          "categories": [
+            {
+              "title": "Factory warranty",
+              "code": "civic-type-r-2017-factory_warranty",
+              "sub_categories": [
+                {
+                  "title": "6-year rust perforation warranty<sup>=</sup>",
+                  "code": "civic-type-r-2017-6-year_rust_perforation_warranty<sup>=<-sup>",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SERVICING",
+          "disclaimers": [
+            "<sup>*</sup> For 1.5L Turbo variants, more frequent servicing may be required if vehicle is subjected to certain driving conditions.  For more information visit <a href=\"https://www.honda.com.au/driving-conditions.html\">honda.com.au/driving-conditions</a>"
+          ],
+          "code": "civic-type-r-2017-servicing",
+          "categories": [
+            {
+              "title": "Servicing Schedule",
+              "code": "civic-type-r-2017-servicing_schedule",
+              "sub_categories": [
+                {
+                  "title": "12 months / 10,000km* (whichever comes first)",
+                  "code": "civic-type-r-2017-12_months_-_10,000km_(whichever_comes_first)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "order": 0
+    }
+  ]
+}

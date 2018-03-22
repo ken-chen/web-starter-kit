@@ -1,0 +1,450 @@
+[{
+    "id": "accessories-1",
+    "title": "RUBBER FLOOR MATS",
+    "items": [{
+        "id": "crv-accessory-1",
+        "type": "accessory",
+        "title": "RUBBER FLOOR MATS",
+        "description": "These hard-wearing rubber floor mats will protect the floor of your CR-V from dirt and mud.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-rubber-floor-mats.jpg",
+        "price": "98<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi","2WD VTi-S","2WD VTi-L","4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>*The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-2",
+    "title": "CHROME DOOR MIRROR GARNISH",
+    "items": [{
+        "id": "crv-accessory-2",
+        "type": "accessory",
+        "title": "CHROME DOOR MIRROR GARNISH",
+        "description": "Make the CR-V even more your own with the addition of this Chrome Door Mirror Garnish.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-chrome-door-mirror-garnish.jpg",
+        "price": "98<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-3",
+    "title": "LUGGAGE AREA PROTECTOR TRAY",
+    "items": [{
+        "id": "crv-accessory-3",
+        "type": "accessory",
+        "title": "LUGGAGE AREA PROTECTOR TRAY",
+        "description": "Tailored to fit the boot of your CR-V, ideal when carrying messy loads, protecting the interior.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-luggage-area-protector-tray.jpg",
+        "price": "99<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>*The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-4",
+    "title": "DOOR SILL GARNISH - ILLUMINATED",
+    "items": [{
+        "id": "crv-accessory-4",
+        "type": "accessory",
+        "title": "DOOR SILL GARNISH - ILLUMINATED",
+        "description": "Stainless Steel Finish with illuminated CR-V logo - designed to enhance and protect the sills of your new CR-V.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-door-sill-garnish-illuminated.jpg",
+        "price": "313<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Note: Rear door garnishes are NOT illuminated. <br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-5",
+    "title": "BOOTLIP PROTECTOR ",
+    "items": [{
+        "id": "crv-accessory-5",
+        "type": "accessory",
+        "title": "BOOTLIP PROTECTOR ",
+        "description": "Help protect the rear bumper and bootlip from everyday wear and tear.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-bootlip-protector.jpg",
+        "price": "45<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-6",
+    "title": "ACCENT LIGHTING",
+    "items": [{
+        "id": "crv-accessory-6",
+        "type": "accessory",
+        "title": "ACCENT LIGHTING",
+        "description": "Create a soothing ambience for the CR-V’s interior with blue accent lighting.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-accent-lighting.jpg",
+        "price": "395<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer.<br />"
+},
+{
+    "id": "accessories-7",
+    "title": "CHROME EXHAUST PIPE FINISHER",
+    "items": [{
+        "id": "crv-accessory-7",
+        "type": "accessory",
+        "title": "CHROME EXHAUST PIPE FINISHER",
+        "description": "Give your CR-V a sporty look with the Chrome Exhaust Finisher.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-chrome-exhause-pipe-finisher.jpg",
+        "price": "83<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-8",
+    "title": "CHROME FRONT BUMPER GARNISH",
+    "items": [{
+        "id": "crv-accessory-8",
+        "type": "accessory",
+        "title": "CHROME FRONT BUMPER GARNISH",
+        "description": "Add some extra flair to the CR-V’s distinguished front bodywork.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-chrome-front-bumper-garnish.jpg",
+        "price": "109<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+
+
+{
+    "id": "accessories-9",
+    "title": "SPORTS GRILLE - PETROL",
+    "items": [{
+        "id": "crv-accessory-9",
+        "type": "accessory",
+        "title": "SPORTS GRILLE - PETROL",
+        "description": "Sophisticated and sporty, the chrome Sport Grille accentuates the CR-V’s already distinctive styling.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-sports-grille-petrol.jpg",
+        "price": "402<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Petrol design shown. Not compatible with optional ADAS.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-10",
+    "title": "ALLOY WHEELS 19-INCH UPSIZETHINGS",
+    "items": [{
+        "id": "crv-accessory-10",
+        "type": "accessory",
+        "title": "ALLOY WHEELS 19-INCH UPSIZETHINGS",
+        "description": "Complete the sporty look with 19” alloy wheels (5 Spoke - Gunpowder Black).",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-alloy-wheels-19-inch.jpg",
+        "price": "1519<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Tyres sold separately.<br> Set of 4 Wheels = $1,519, Set of 4 Wheels & Tyres = $3,155.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-11",
+    "title": "DOOR VISOR SET",
+    "items": [{
+        "id": "crv-accessory-11",
+        "type": "accessory",
+        "title": "DOOR VISOR SET",
+        "description": "The hard-wearing acrylic door visors improve airflow while helping to protect the CR-V’s interior from water and debris.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-door-visor-set.jpg",
+        "price": "313<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-12",
+    "title": "CHROME LOWER DOOR GARNISH",
+    "items": [{
+        "id": "crv-accessory-12",
+        "type": "accessory",
+        "title": "CHROME LOWER DOOR GARNISH",
+        "description": "This attractive accessory allows you to add a personal touch to your CR-V while subtly protecting its front and rear door sills.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-chrome-lower-door-garnish.jpg",
+        "price": "329<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-13",
+    "title": "PET GUARD",
+    "items": [{
+        "id": "crv-accessory-13",
+        "type": "accessory",
+        "title": "PET GUARD",
+        "description": "Solid and removable upper guard that allows you to keep your pets safely separated from the rest of your car’s interior.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-pet-guard.jpg",
+        "price": "471<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-14",
+    "title": "CHROME TAILGATE GARNISH",
+    "items": [{
+        "id": "crv-accessory-14",
+        "type": "accessory",
+        "title": "CHROME TAILGATE GARNISH",
+        "description": "Complete the CR-V’s distinguished rear bodywork.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-chrome-tailgate-garnish.jpg",
+        "price": "112<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-15",
+    "title": "CARGO STEP PROTECTOR",
+    "items": [{
+        "id": "crv-accessory-15",
+        "type": "accessory",
+        "title": "CARGO STEP PROTECTOR",
+        "description": "Protect your CR-V’s bodywork from annoying scrapes and scratches when loading or unloading your boot.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-cargo-step-protector.jpg",
+        "price": "129<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Petrol design shown.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-16",
+    "title": "CARGO NET",
+    "items": [{
+        "id": "crv-accessory-16",
+        "type": "accessory",
+        "title": "CARGO NET",
+        "description": "Keep luggage secured in the boot with a specially designed horizontal Cargo Net.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-cargo-net.jpg",
+        "price": "63<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "Petrol design shown.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-17",
+    "title": "DELUXE TAILORED MAT SET",
+    "items": [{
+        "id": "crv-accessory-17",
+        "type": "accessory",
+        "title": "DELUXE TAILORED MAT SET",
+        "description": "Help to protect the carpeting of your CR-V from daily wear and tear.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-deluxe-tailored-mat-set.jpg",
+        "price": "178<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "Petrol design shown.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-18",
+    "title": "SIDE STEP SET - METALLIC",
+    "items": [{
+        "id": "crv-accessory-18",
+        "type": "accessory",
+        "title": "SIDE STEP SET - METALLIC",
+        "description": "Add design and functionality to your CR-V with this Metallic Side Step Set.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-side-step-set-metallic.jpg",
+        "price": "721<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-19",
+    "title": "ROOF RACK CROSS BAR SET",
+    "items": [{
+        "id": "crv-accessory-19",
+        "type": "accessory",
+        "title": "ROOF RACK CROSS BAR SET",
+        "description": "Conveniently carry items such as bikes and skis on the roof of your CR-V. This versatile roof rack is designed to be used with Honda Genuine Accessories. 75kg load capacity.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-roof-rack-cross-bar-set.jpg",
+        "price": "528<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "In the interest of aerodynamics, Hon-da recommends the roof rack cross bar set be removed when not in use.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-20",
+    "title": "ROOF RACK ATTACHMENTS",
+    "items": [{
+        "id": "crv-accessory-20",
+        "type": "accessory",
+        "title": "ROOF RACK ATTACHMENTS",
+        "description": "Honda provides a range of roof rack attachments to simplify the transport of your bike (RRP $351)*, kayak (RRP $406)*, surfboard (RRP $206)*, skis or snowboard (RRP $336)*.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-roof-rack-attachments.jpg",
+        "price": "351<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-21",
+    "title": "AUTOMATIC DIMMING MIRROR",
+    "items": [{
+        "id": "crv-accessory-21",
+        "type": "accessory",
+        "title": "AUTOMATIC DIMMING MIRROR",
+        "description": "Helps to reduce the glare of bright headlights from cars behind you without the need to lift a finger.This clever mirror automatically adjusts for all light conditions.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-automatic-dimming-mirror.jpg",
+        "price": "469<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi","4WD VTi"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-22",
+    "title": "MODULO SPORTS PACK",
+    "items": [{
+        "id": "crv-accessory-22",
+        "type": "accessory",
+        "title": "MODULO SPORTS PACK",
+        "description": "Make it yours with the Modulo Sports Pack: Front and Rear Aero Bumpers (VTi-S and VTi-L only). Rear Tailgate Spoiler and Metallic Side Step Set also sold separately.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-modulo-sports-pack.jpg",
+        "price": "3120<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi-S", "2WD VTi-L","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Modulo Sports Pack shown with 19-inch upsize Alloy Wheels (Set of 4 Wheels = $1,519, Set of 4 Wheels & Tyres = $3,155), Door Mirror Garnish Set ($98) and Door Visor Set ($313) Rear Aero Bumper is not compatible with accessory Rear Park Assist.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-23",
+    "title": "HONDALINK CABLE KIT",
+    "items": [{
+        "id": "crv-accessory-23",
+        "type": "accessory",
+        "title": "HONDALINK CABLE KIT",
+        "description": "Use the HondaLink cable kit to connect your iPhone^ to your CR-V’s Display Audio unit. The cable kit includes: 1 x Apple Lightning Digital AV Adapter; 1 x Apple Lighting USB Cable (0.5m); and 1 x Belkin HDMI cable.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-hondalink-cable-kit.jpg",
+        "price": "150<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "^Compatible with iPhone® 5 and above running iOS7. Drive responsi-bly. Apple and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries. iOS is a trade-mark or registered trademark of Cisco in the U.S. and other countries and is used under license. iOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-24",
+    "title": "ORGANISER BOX",
+    "items": [{
+        "id": "crv-accessory-24",
+        "type": "accessory",
+        "title": "ORGANISER BOX",
+        "description": "A functional cargo management system that helps keep things organised, limits movements, and provides protection for items in the boot.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-organiser-box.jpg",
+        "price": "129<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi", "2WD VTi-S", "2WD VTi-L", "4WD VTi","4WD VTi-S","4WD VTi-L"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-25",
+    "title": "FOG LIGHTS",
+    "items": [{
+        "id": "crv-accessory-25",
+        "type": "accessory",
+        "title": "FOG LIGHTS",
+        "description": "The subtly integrated front fog lights provide added forward vision.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-fog-lights.jpg",
+        "price": "692<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi","4WD VTi"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Petrol design shown.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-26",
+    "title": "REAR PARK ASSIST",
+    "items": [{
+        "id": "crv-accessory-26",
+        "type": "accessory",
+        "title": "REAR PARK ASSIST",
+        "description": "These sensors actively alert you to the presence of something, or someone behind the car when reversing.",
+        "imgSrc": "/lib/img/showroom/accessories/CRV/crv-accessories-rear-park-assist.jpg",
+        "price": "523<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["2WD VTi","4WD VTi"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Petrol design shown.<br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Acces-sory and fitment pricing may vary between participating dealers. We strongly recommend that you con-firm the final fitted price with your Honda Dealer."
+}]

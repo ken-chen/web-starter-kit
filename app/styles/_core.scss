@@ -1,0 +1,362 @@
+// Colors
+$table-red: #d45c49;
+$white: #fff;
+$border-brown: #462a13;
+$bun-orange: #e59347;
+$salad-green: #6bab4d;
+$meat-brown: #583f28;
+$cheese-yellow: #f2c454;
+$yellow: #fecd01;
+$blue: #006ba8;
+$tomato-red: #cb341e;
+$circle-blue: #64beee; //Mixins
+@mixin border($color: false) {
+	@if ($color) {
+		border: 5px solid $color;
+	} @else {
+		border: 5px solid $border-brown;
+	}
+}
+
+.background-circle,
+.body,
+.bun,
+.cheese,
+.flag,
+.flag-pole,
+.flag:after,
+.flag:before,
+.hamburger,
+.left-stars,
+.meat,
+.right-stars,
+.salad,
+.salad-under,
+.seed,
+.star,
+.table,
+.tomato,
+html {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+}
+
+html {
+	background-color: #f6c851;
+	overflow: hidden;
+}
+
+.background-circle {
+	width: 400px;
+	height: 400px;
+	border: 5px solid mix($circle-blue, #000, 70%);
+	border-radius: 50%;
+	margin: auto;
+	background-color: $circle-blue;
+	z-index: -2;
+}
+
+.table {
+	@include border;
+	bottom: -230px;
+	width: 400px;
+	height: 60px;
+	margin: auto;
+	background-color: white;
+	background-image: linear-gradient(90deg, rgba($table-red, 0.7) 50%, transparent 50%), linear-gradient(rgba($table-red, 0.7) 50%, transparent 50%);
+	background-size: 30px 30px;
+}
+
+.hamburger {
+	top: 30px;
+
+	.bun {
+		@include border;
+		width: 260px;
+		margin: 0 auto;
+		background-color: $bun-orange;
+	}
+
+	.top-bun {
+		top: 120px;
+		height: 75px;
+		border-radius: 55px 55px 10% 10%;
+		box-shadow: inset -30px 0 0 mix($bun-orange, #000, 90%), inset 30px 0 0 mix($bun-orange, #fff, 90%);
+		z-index: 4;
+	}
+
+	.bottom-bun {
+		top: 320px;
+		height: 50px;
+		border-radius: 10% 10% 40px 40px;
+		box-shadow: inset -30px 0 0 mix($bun-orange, #000, 90%), inset 30px 0 0 mix($bun-orange, #fff, 90%);
+	}
+
+	.seed {
+		height: 20px;
+		width: 10px;
+		border-radius: 5px;
+		background-color: $white;
+
+		&:first-child {
+			top: 20px;
+			left: 60px;
+			transform: rotate(45deg);
+		}
+
+		&:nth-child(2) {
+			top: 35px;
+			left: 130px;
+		}
+
+		&:last-child {
+			top: 18px;
+			left: 200px;
+			transform: rotate(-45deg);
+		}
+	}
+
+	.salad {
+		@include border;
+		top: 280px;
+		width: 230px;
+		height: 40px;
+		border-radius: 50px;
+		margin: 0 auto;
+		background-color: $salad-green;
+		box-shadow: inset 0 5px 0 0 mix($salad-green, $white, 70%);
+	}
+
+	.salad-under {
+		@include border;
+		top: 20px;
+		width: 40px;
+		height: 10px;
+		border-radius: 60px 60px 0 0;
+		margin: 0 auto;
+		background: mix($salad-green, #000, 70%);
+
+		&:first-child {
+			left: -130px;
+		}
+
+		&:last-child {
+			left: 130px;
+		}
+	}
+
+	.meat {
+		@include border;
+		top: 240px;
+		width: 260px;
+		height: 40px;
+		border-radius: 50px;
+		margin: 0 auto;
+		background-color: $meat-brown;
+		box-shadow: inset -15px 0 0 mix($meat-brown, #000, 90%), inset 15px 0 0 mix($meat-brown, #fff, 90%);
+	}
+
+	.cheese {
+		@include border;
+		top: 210px;
+		width: 50px;
+		height: 50px;
+		margin: 0 auto;
+		background-color: $cheese-yellow;
+		transform: rotate(45deg);
+
+		&.c-1 {
+			left: -120px;
+		}
+
+		&.c-3 {
+			left: 120px;
+		}
+	}
+
+	.tomato {
+		@include border;
+		top: 195px;
+		width: 230px;
+		height: 40px;
+		border-radius: 20px;
+		margin: 0 auto;
+		background-color: $tomato-red;
+		box-shadow: inset -10px 0 0 mix($tomato-red, #000, 90%), inset 10px 0 0 mix($tomato-red, #fff, 90%);
+		z-index: 3;
+	}
+}
+
+.flag-pole {
+	@include border;
+	top: 70px;
+	left: -15px;
+	height: 80px;
+	width: 0;
+	margin: 0 auto;
+	border-radius: 50px;
+}
+
+.flag {
+	@include border;
+	width: 100px;
+	height: 50px;
+	left: 95px;
+	top: 75px;
+	border-radius: 5px;
+	margin: 0 auto;
+	background-color: $blue;
+
+	&:after,
+	&:before {
+		content: "";
+		background-color: $yellow;
+	}
+
+	&:before {
+		left: 25px;
+		width: 13px;
+		height: 50px;
+	}
+
+	&:after {
+		top: 20px;
+		width: 100px;
+		height: 13px;
+	}
+}
+
+.left-stars {
+	top: -60px;
+	left: -450px;
+	width: 100px;
+	height: 100px;
+	margin: auto;
+
+	.star {
+		top: 40px;
+		left: 20px;
+		width: 10px;
+		height: 30px;
+		border-radius: 50px;
+		background-color: $white;
+		transform: rotate(30deg);
+
+		&:after {
+			content: "";
+			position: absolute;
+			width: 10px;
+			height: 30px;
+			border-radius: 50px;
+			background-color: $white;
+			transform: rotate(90deg);
+		}
+
+		&:nth-child(2) {
+			top: 20px;
+			left: 50px;
+			width: 6px;
+			height: 20px;
+			border-radius: 50px;
+			transform: rotate(60deg);
+
+			&:after {
+				content: "";
+				position: absolute;
+				width: 6px;
+				height: 20px;
+				border-radius: 50px;
+				background-color: $white;
+				transform: rotate(90deg);
+			}
+		}
+
+		&:nth-child(3) {
+			top: 60px;
+			left: 60px;
+			width: 3px;
+			height: 8px;
+			border-radius: 20px;
+			transform: rotate(180deg);
+
+			&:after {
+				content: "";
+				position: absolute;
+				width: 3px;
+				height: 8px;
+				background-color: $white;
+				border-radius: 20px;
+				transform: rotate(90deg);
+			}
+		}
+	}
+}
+
+.right-stars {
+	top: -60px;
+	left: 450px;
+	width: 100px;
+	height: 100px;
+	margin: auto;
+
+	.star {
+		top: 40px;
+		left: 70px;
+		width: 10px;
+		height: 30px;
+		border-radius: 50px;
+		background-color: $white;
+		transform: rotate(30deg);
+
+		&:after {
+			content: "";
+			position: absolute;
+			width: 10px;
+			height: 30px;
+			border-radius: 50px;
+			background-color: $white;
+			transform: rotate(90deg);
+		}
+
+		&:nth-child(2) {
+			top: 20px;
+			left: 50px;
+			width: 6px;
+			height: 20px;
+			border-radius: 50px;
+			transform: rotate(60deg);
+
+			&:after {
+				content: "";
+				position: absolute;
+				width: 6px;
+				height: 20px;
+				background-color: $white;
+				border-radius: 50px;
+				transform: rotate(90deg);
+			}
+		}
+
+		&:nth-child(3) {
+			top: 60px;
+			left: 40px;
+			width: 3px;
+			height: 8px;
+			border-radius: 20px;
+			transform: rotate(180deg);
+
+			&:after {
+				content: "";
+				position: absolute;
+				width: 3px;
+				height: 8px;
+				border-radius: 20px;
+				background-color: $white;
+				transform: rotate(90deg);
+			}
+		}
+	}
+}

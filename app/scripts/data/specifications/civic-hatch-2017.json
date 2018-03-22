@@ -1,0 +1,4447 @@
+{
+  "title": "civic-hatch-2017",
+  "year": "2017",
+  "code": "civic-hatch-2017",
+  "variants": [
+    {
+      "title": "VTi",
+      "image": "/content/dam/honda/cars/models/civic-sedan-2016/product/sideprofile/Civic_VTi_MASTER_LEFT_RGB.png",
+      "code": "civic-sedan-2016-vti",
+      "isDefaultVariant": true,
+      "disclaimer": "disclaimer",
+      "specification_image": "/content/dam/honda/cars/models/civic-sedan-2016/product/front34/Civic_VTi_MASTER_F34_RGB.png",
+      "specification_title": "VTi 1.8L",
+      "specifications": [
+        {
+          "title": "POWERTRAIN",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-powertrain",
+          "categories": [
+            {
+              "title": "Engine",
+              "code": "civic-sedan-2016-engine",
+              "sub_categories": [
+                {
+                  "title": "Engine type",
+                  "code": "civic-sedan-2016-engine_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "SOHC i-VTEC In line 4-cylinder",
+                      "code": "civic-sedan-2016-sohc_i-vtec_in_line_4-cylinder",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "DOHC VTEC Turbo In line 4-cylinder",
+                      "code": "civic-sedan-2016-dohc_vtec_turbo_in_line_4-cylinder",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Engine capacity",
+                  "code": "civic-sedan-2016-engine_capacity",
+                  "text_value": "1.8L - 1799cc",
+                  "has_value": false
+                },
+                {
+                  "title": "Compression ratio",
+                  "code": "civic-sedan-2016-compression_ratio",
+                  "text_value": "10.6",
+                  "has_value": false
+                },
+                {
+                  "title": "Bore x stroke (mm)",
+                  "code": "civic-sedan-2016-bore_x_stroke_(mm)",
+                  "text_value": "81x87.3",
+                  "has_value": false
+                },
+                {
+                  "title": "Drive By Wire throttle (DBW)",
+                  "code": "civic-sedan-2016-drive_by_wire_throttle_(dbw)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Transmission",
+              "code": "civic-sedan-2016-transmission",
+              "sub_categories": [
+                {
+                  "title": "Continuously Variable Transmission (CVT)",
+                  "code": "civic-sedan-2016-continuously_variable_transmission_(cvt)",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted paddles shifters",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_paddles_shifters",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PERFORMANCE AND FUEL ECONOMY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-performance",
+          "categories": [
+            {
+              "title": "Performance",
+              "code": "civic-sedan-2016-performance",
+              "sub_categories": [
+                {
+                  "title": "Maximum power (kW@rpm)",
+                  "code": "civic-sedan-2016-maximum_power_(kw@rpm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Maximum torque (Nm @rpm)",
+                  "code": "civic-sedan-2016-maximum_torque_(nm_@rpm)",
+                  "text_value": "174 @ 4300",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Fuel economy",
+              "code": "civic-sedan-2016-fuel_economy",
+              "sub_categories": [
+                {
+                  "title": "Fuel consumption (litres/100km)*",
+                  "code": "civic-sedan-2016-fuel_consumption_(litres-100km)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "combined",
+                      "code": "civic-sedan-2016-combined",
+                      "text_value": "6.4"
+                    },
+                    {
+                      "title": "urban",
+                      "code": "civic-sedan-2016-urban",
+                      "text_value": "8.7"
+                    },
+                    {
+                      "title": "extra urban",
+                      "code": "civic-sedan-2016-extra_urban",
+                      "text_value": "5.0"
+                    }
+                  ]
+                },
+                {
+                  "title": "CO2 emission (g/km)*",
+                  "code": "civic-sedan-2016-co2_emission_(g-km)",
+                  "text_value": "148.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CHASIS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-chasis",
+          "categories": [
+            {
+              "title": "Suspension",
+              "code": "civic-sedan-2016-suspension",
+              "sub_categories": [
+                {
+                  "title": "MacPherson strut (front)",
+                  "code": "civic-sedan-2016-macpherson_strut_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Multi-link (rear)",
+                  "code": "civic-sedan-2016-multi-link_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Steering",
+              "code": "civic-sedan-2016-steering",
+              "sub_categories": [
+                {
+                  "title": "Motion Adaptive Electric Power Steering",
+                  "code": "civic-sedan-2016-motion_adaptive_electric_power_steering",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Brakes",
+              "code": "civic-sedan-2016-brakes",
+              "sub_categories": [
+                {
+                  "title": "Ventilated disc (front)",
+                  "code": "civic-sedan-2016-ventilated_disc_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Sold disc (rear)",
+                  "code": "civic-sedan-2016-sold_disc_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-exterior",
+          "categories": [
+            {
+              "title": "Styling",
+              "code": "civic-sedan-2016-styling",
+              "sub_categories": [
+                {
+                  "title": "Antenna",
+                  "code": "civic-sedan-2016-antenna",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "in-glass",
+                      "code": "civic-sedan-2016-in-glass",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "shark fin",
+                      "code": "civic-sedan-2016-shark_fin",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tailgate spoiler",
+                  "code": "civic-sedan-2016-tailgate_spoiler",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Piano black B-Pillar finish",
+                  "code": "civic-sedan-2016-piano_black_b-pillar_finish",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Convenience",
+              "code": "civic-sedan-2016-convenience",
+              "sub_categories": [
+                {
+                  "title": "Rear window demister",
+                  "code": "civic-sedan-2016-rear_window_demister",
+                  "has_value": false
+                },
+                {
+                  "title": "One touch tilt & openable electric sunroof",
+                  "code": "civic-sedan-2016-one_touch_tilt_&_openable_electric_sunroof",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Lighting",
+              "code": "civic-sedan-2016-lighting",
+              "sub_categories": [
+                {
+                  "title": "Front fog lights",
+                  "code": "civic-sedan-2016-front_fog_lights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "halogen",
+                      "code": "civic-sedan-2016-halogen",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "LED",
+                      "code": "civic-sedan-2016-led",
+                      "flag": "no"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-interior",
+          "categories": [
+            {
+              "title": "Driver aids",
+              "code": "civic-sedan-2016-driver_aids",
+              "sub_categories": [
+                {
+                  "title": "Cruise control with speed limiter",
+                  "code": "civic-sedan-2016-cruise_control_with_speed_limiter",
+                  "has_value": false
+                },
+                {
+                  "title": "Eco assist system (speedometer display)",
+                  "code": "civic-sedan-2016-eco_assist_system_(speedometer_display)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted controls",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_controls",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "ECON mode",
+                  "code": "civic-sedan-2016-econ_mode",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Comfort and convenience",
+              "code": "civic-sedan-2016-comfort_and_convenience",
+              "sub_categories": [
+                {
+                  "title": "Accessory power outlet (12v)",
+                  "code": "civic-sedan-2016-accessory_power_outlet_(12v)",
+                  "has_value": false
+                },
+                {
+                  "title": "Drilled alloy pedals",
+                  "code": "civic-sedan-2016-drilled_alloy_pedals",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Driver's footrest",
+                  "code": "civic-sedan-2016-driver's_footrest",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Dust and pollen filter",
+                  "code": "civic-sedan-2016-dust_and_pollen_filter",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electric parking brake with automatic brake hold",
+                  "code": "civic-sedan-2016-electric_parking_brake_with_automatic_brake_hold",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Front console (with 2 cup holders)",
+                  "code": "civic-sedan-2016-front_console_(with_2_cup_holders)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Remote central locking",
+                  "code": "civic-sedan-2016-remote_central_locking",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Smart keyless entry with push start button",
+                  "code": "civic-sedan-2016-smart_keyless_entry_with_push_start_button",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Tilt and teslescopic steering column",
+                  "code": "civic-sedan-2016-tilt_and_teslescopic_steering_column",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior lighting",
+              "code": "civic-sedan-2016-interior_lighting",
+              "sub_categories": [
+                {
+                  "title": "Map lights",
+                  "code": "civic-sedan-2016-map_lights",
+                  "has_value": false
+                },
+                {
+                  "title": "Interior light",
+                  "code": "civic-sedan-2016-interior_light",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Cargo area light",
+                  "code": "civic-sedan-2016-cargo_area_light",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Seating extras",
+              "code": "civic-sedan-2016-seating_extras",
+              "sub_categories": [
+                {
+                  "title": "60:40 split fold rear seats",
+                  "code": "civic-sedan-2016-6040_split_fold_rear_seats",
+                  "has_value": false
+                },
+                {
+                  "title": "Rear seat armrest with cupholders",
+                  "code": "civic-sedan-2016-rear_seat_armrest_with_cupholders",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Heated front seats",
+                  "code": "civic-sedan-2016-heated_front_seats",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior trim",
+              "code": "civic-sedan-2016-interior_trim",
+              "sub_categories": [
+                {
+                  "title": "Seat trim material",
+                  "code": "civic-sedan-2016-seat_trim_material",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "black fabric",
+                      "code": "civic-sedan-2016-black_fabric",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "black premium fabric",
+                      "code": "civic-sedan-2016-black_premium_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black leather appointed1",
+                      "code": "civic-sedan-2016-black_leather_appointed1",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Leather-wrapped steering wheel",
+                  "code": "civic-sedan-2016-leather-wrapped_steering_wheel",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Leather-wrapped gear shift knob",
+                  "code": "civic-sedan-2016-leather-wrapped_gear_shift_knob",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Storage",
+              "code": "civic-sedan-2016-storage",
+              "sub_categories": [
+                {
+                  "title": "Beverage holders (x8)",
+                  "code": "civic-sedan-2016-beverage_holders_(x8)",
+                  "has_value": false
+                },
+                {
+                  "title": "Coat hanger (x2)",
+                  "code": "civic-sedan-2016-coat_hanger_(x2)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Sunviser ticket holder (driver-side)",
+                  "code": "civic-sedan-2016-sunviser_ticket_holder_(driver-side)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INFOTAINMENT",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-infotainment",
+          "categories": [
+            {
+              "title": "Advanced Display Audio (7\" touchscreen) featuring",
+              "code": "civic-sedan-2016-advanced_display_audio_(7\"_touchscreen)_featuring",
+              "sub_categories": [
+                {
+                  "title": "AM/FM radio",
+                  "code": "civic-sedan-2016-am-fm_radio",
+                  "has_value": false
+                },
+                {
+                  "title": "Android Autoâ„¢ with Googleâ„¢ Voice search#",
+                  "code": "civic-sedan-2016-android_autoâ„¢_with_googleâ„¢_voice_search#",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Apple CarPlayâ„¢ with SiriÂ® Eyes Free modeâ€¡",
+                  "code": "civic-sedan-2016-apple_carplayâ„¢_with_siriÂ®_eyes_free_modeâ€¡",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "BluetoothÂ® connectivity with audio streamingÂ°",
+                  "code": "civic-sedan-2016-bluetoothÂ®_connectivity_with_audio_streamingÂ°",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Digital Radio (DAB+)^",
+                  "code": "civic-sedan-2016-digital_radio_(dab+)^",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "GarminÂ® satellite navigationËœ (with SUNAâ‰  Live Traffic updates)",
+                  "code": "civic-sedan-2016-garminÂ®_satellite_navigationËœ_(with_sunaâ‰ _live_traffic_updates)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "HDMI connectivity (1 port)",
+                  "code": "civic-sedan-2016-hdmi_connectivity_(1_port)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "USB connectivity (2 ports)",
+                  "code": "civic-sedan-2016-usb_connectivity_(2_ports)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Speakers",
+              "code": "civic-sedan-2016-speakers",
+              "sub_categories": [
+                {
+                  "title": "160W sound system (4 speakers and 4 tweeters)",
+                  "code": "civic-sedan-2016-160w_sound_system_(4_speakers_and_4_tweeters)",
+                  "has_value": false
+                },
+                {
+                  "title": "452W premium sound system (10 speakers inc. subwoofer)",
+                  "code": "civic-sedan-2016-452w_premium_sound_system_(10_speakers_inc._subwoofer)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Speed-sensitive Volume Compensation (SVC)",
+                  "code": "civic-sedan-2016-speed-sensitive_volume_compensation_(svc)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SAFETY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-safety",
+          "categories": [
+            {
+              "title": "Active safety",
+              "code": "civic-sedan-2016-active_safety",
+              "sub_categories": [
+                {
+                  "title": "Honda Sensing featuring",
+                  "code": "civic-sedan-2016-honda_sensing_featuring",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Forward Collision Warning (FCW)",
+                      "code": "civic-sedan-2016-forward_collision_warning_(fcw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Collision Mitigation Braking System (CMBS)",
+                      "code": "civic-sedan-2016-collision_mitigation_braking_system_(cmbs)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Departure Warning (LDW)",
+                      "code": "civic-sedan-2016-lane_departure_warning_(ldw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Keeping Assist System (LKAS)",
+                      "code": "civic-sedan-2016-lane_keeping_assist_system_(lkas)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Road Departure Mitigation System (RDM)",
+                      "code": "civic-sedan-2016-road_departure_mitigation_system_(rdm)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Adaptive Cruise Control (ACC) with Low-Speed Follow (LSF)",
+                      "code": "civic-sedan-2016-adaptive_cruise_control_(acc)_with_low-speed_follow_(lsf)",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Agile Handling Assist System (AHAS)",
+                  "code": "civic-sedan-2016-agile_handling_assist_system_(ahas)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Hill Start Assist (HSA)",
+                  "code": "civic-sedan-2016-hill_start_assist_(hsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "LaneWatch",
+                  "code": "civic-sedan-2016-lanewatch",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Straight driving steering assist",
+                  "code": "civic-sedan-2016-straight_driving_steering_assist",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Vehicle Stability Assist (VSA)",
+                  "code": "civic-sedan-2016-vehicle_stability_assist_(vsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Traction Control System (TCS)",
+                  "code": "civic-sedan-2016-traction_control_system_(tcs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Anti-lock Braking System (ABS)",
+                  "code": "civic-sedan-2016-anti-lock_braking_system_(abs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electronic Brake-force Distribution (EBD)",
+                  "code": "civic-sedan-2016-electronic_brake-force_distribution_(ebd)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Brake Assist (EBA)",
+                  "code": "civic-sedan-2016-emergency_brake_assist_(eba)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Stop Signal (ESS)",
+                  "code": "civic-sedan-2016-emergency_stop_signal_(ess)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre Deflation Warning System (DWS)",
+                  "code": "civic-sedan-2016-tyre_deflation_warning_system_(dws)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Passive safety",
+              "code": "civic-sedan-2016-passive_safety",
+              "sub_categories": [
+                {
+                  "title": "Child restraint anchorages",
+                  "code": "civic-sedan-2016-child_restraint_anchorages",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "ISO fix (up to 2)",
+                      "code": "civic-sedan-2016-iso_fix_(up_to_2)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Child anchorage point (x3)",
+                      "code": "civic-sedan-2016-child_anchorage_point_(x3)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Child-proof rear door locks",
+                  "code": "civic-sedan-2016-child-proof_rear_door_locks",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Head restraints (x5)",
+                  "code": "civic-sedan-2016-head_restraints_(x5)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Side impact protection",
+                  "code": "civic-sedan-2016-side_impact_protection",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Parking aids",
+              "code": "civic-sedan-2016-parking_aids",
+              "sub_categories": [
+                {
+                  "title": "Parking sensors",
+                  "code": "civic-sedan-2016-parking_sensors",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-sedan-2016-front",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-sedan-2016-rear",
+                      "text_value": "m"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Security",
+              "code": "civic-sedan-2016-security",
+              "sub_categories": [
+                {
+                  "title": "Engine immobiliser",
+                  "code": "civic-sedan-2016-engine_immobiliser",
+                  "has_value": false
+                },
+                {
+                  "title": "Security alarm system",
+                  "code": "civic-sedan-2016-security_alarm_system",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Automatic 'walk away' door locking",
+                  "code": "civic-sedan-2016-automatic_'walk_away'_door_locking",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DIMENSIONS, WEIGHTS AND CAPACITIES",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-dimensions,",
+          "categories": [
+            {
+              "title": "Dimensions",
+              "code": "civic-sedan-2016-dimensions",
+              "sub_categories": [
+                {
+                  "title": "Overall length (mm)",
+                  "code": "civic-sedan-2016-overall_length_(mm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall width (mm)",
+                  "code": "civic-sedan-2016-overall_width_(mm)",
+                  "text_value": "1799.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall height (mm)",
+                  "code": "civic-sedan-2016-overall_height_(mm)",
+                  "text_value": "1416.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Wheelbase (mm)",
+                  "code": "civic-sedan-2016-wheelbase_(mm)",
+                  "text_value": "2700.0",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Weights",
+              "code": "civic-sedan-2016-weights",
+              "sub_categories": [
+                {
+                  "title": "Tare mass (kg)",
+                  "code": "civic-sedan-2016-tare_mass_(kg)",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Capacities",
+              "code": "civic-sedan-2016-capacities",
+              "sub_categories": [
+                {
+                  "title": "Boot capacity (litres in VDA standard)",
+                  "code": "civic-sedan-2016-boot_capacity_(litres_in_vda_standard)",
+                  "has_value": false
+                },
+                {
+                  "title": "Seat capacity",
+                  "code": "civic-sedan-2016-seat_capacity",
+                  "text_value": "5.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel tank capacity (L)",
+                  "code": "civic-sedan-2016-fuel_tank_capacity_(l)",
+                  "text_value": "47.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TYRES & WHEELS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-tyres",
+          "categories": [
+            {
+              "title": "Tyers",
+              "code": "civic-sedan-2016-tyers",
+              "sub_categories": [
+                {
+                  "title": "Tyre size",
+                  "code": "civic-sedan-2016-tyre_size",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Wheels",
+              "code": "civic-sedan-2016-wheels",
+              "sub_categories": [
+                {
+                  "title": "Wheel type",
+                  "code": "civic-sedan-2016-wheel_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "steel",
+                      "code": "civic-sedan-2016-steel",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "alloy",
+                      "code": "civic-sedan-2016-alloy",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wheel size",
+                  "code": "civic-sedan-2016-wheel_size",
+                  "text_value": "16\"",
+                  "has_value": false
+                },
+                {
+                  "title": "Space saver spare wheel",
+                  "code": "civic-sedan-2016-space_saver_spare_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "order": 0
+    },
+    {
+      "title": "VTi-S",
+      "image": "/content/dam/honda/cars/models/civic-sedan-2016/product/sideprofile/Civic_VTi-S_MASTER_LEFT_RGB.png",
+      "code": "civic-sedan-2016-vti-s",
+      "isDefaultVariant": false,
+      "disclaimer": "disclaimer",
+      "specification_image": "/content/dam/honda/cars/models/civic-sedan-2016/product/front34/Civic_VTi-S_MASTER_F34_RGB.png",
+      "specification_title": "VTi-S 1.8L",
+      "specifications": [
+        {
+          "title": "POWERTRAIN",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-powertrain",
+          "categories": [
+            {
+              "title": "Engine",
+              "code": "civic-sedan-2016-engine",
+              "sub_categories": [
+                {
+                  "title": "Engine type",
+                  "code": "civic-sedan-2016-engine_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "SOHC i-VTEC In line 4-cylinder",
+                      "code": "civic-sedan-2016-sohc_i-vtec_in_line_4-cylinder",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "DOHC VTEC Turbo In line 4-cylinder",
+                      "code": "civic-sedan-2016-dohc_vtec_turbo_in_line_4-cylinder",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Engine capacity",
+                  "code": "civic-sedan-2016-engine_capacity",
+                  "text_value": "1.8L - 1799cc",
+                  "has_value": false
+                },
+                {
+                  "title": "Compression ratio",
+                  "code": "civic-sedan-2016-compression_ratio",
+                  "text_value": "10.6",
+                  "has_value": false
+                },
+                {
+                  "title": "Bore x stroke (mm)",
+                  "code": "civic-sedan-2016-bore_x_stroke_(mm)",
+                  "text_value": "81x87.3",
+                  "has_value": false
+                },
+                {
+                  "title": "Drive By Wire throttle (DBW)",
+                  "code": "civic-sedan-2016-drive_by_wire_throttle_(dbw)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Transmission",
+              "code": "civic-sedan-2016-transmission",
+              "sub_categories": [
+                {
+                  "title": "Continuously Variable Transmission (CVT)",
+                  "code": "civic-sedan-2016-continuously_variable_transmission_(cvt)",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted paddles shifters",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_paddles_shifters",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PERFORMANCE AND FUEL ECONOMY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-performance",
+          "categories": [
+            {
+              "title": "Performance",
+              "code": "civic-sedan-2016-performance",
+              "sub_categories": [
+                {
+                  "title": "Maximum power (kW@rpm)",
+                  "code": "civic-sedan-2016-maximum_power_(kw@rpm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Maximum torque (Nm @rpm)",
+                  "code": "civic-sedan-2016-maximum_torque_(nm_@rpm)",
+                  "text_value": "174 @ 4300",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Fuel economy",
+              "code": "civic-sedan-2016-fuel_economy",
+              "sub_categories": [
+                {
+                  "title": "Fuel consumption (litres/100km)*",
+                  "code": "civic-sedan-2016-fuel_consumption_(litres-100km)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "combined",
+                      "code": "civic-sedan-2016-combined",
+                      "text_value": "6.4"
+                    },
+                    {
+                      "title": "urban",
+                      "code": "civic-sedan-2016-urban",
+                      "text_value": "8.7"
+                    },
+                    {
+                      "title": "extra urban",
+                      "code": "civic-sedan-2016-extra_urban",
+                      "text_value": "5.0"
+                    }
+                  ]
+                },
+                {
+                  "title": "CO2 emission (g/km)*",
+                  "code": "civic-sedan-2016-co2_emission_(g-km)",
+                  "text_value": "148.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CHASIS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-chasis",
+          "categories": [
+            {
+              "title": "Suspension",
+              "code": "civic-sedan-2016-suspension",
+              "sub_categories": [
+                {
+                  "title": "MacPherson strut (front)",
+                  "code": "civic-sedan-2016-macpherson_strut_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Multi-link (rear)",
+                  "code": "civic-sedan-2016-multi-link_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Steering",
+              "code": "civic-sedan-2016-steering",
+              "sub_categories": [
+                {
+                  "title": "Motion Adaptive Electric Power Steering",
+                  "code": "civic-sedan-2016-motion_adaptive_electric_power_steering",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Brakes",
+              "code": "civic-sedan-2016-brakes",
+              "sub_categories": [
+                {
+                  "title": "Ventilated disc (front)",
+                  "code": "civic-sedan-2016-ventilated_disc_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Sold disc (rear)",
+                  "code": "civic-sedan-2016-sold_disc_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-exterior",
+          "categories": [
+            {
+              "title": "Styling",
+              "code": "civic-sedan-2016-styling",
+              "sub_categories": [
+                {
+                  "title": "Antenna",
+                  "code": "civic-sedan-2016-antenna",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "in-glass",
+                      "code": "civic-sedan-2016-in-glass",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "shark fin",
+                      "code": "civic-sedan-2016-shark_fin",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tailgate spoiler",
+                  "code": "civic-sedan-2016-tailgate_spoiler",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Piano black B-Pillar finish",
+                  "code": "civic-sedan-2016-piano_black_b-pillar_finish",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Convenience",
+              "code": "civic-sedan-2016-convenience",
+              "sub_categories": [
+                {
+                  "title": "Rear window demister",
+                  "code": "civic-sedan-2016-rear_window_demister",
+                  "has_value": false
+                },
+                {
+                  "title": "One touch tilt & openable electric sunroof",
+                  "code": "civic-sedan-2016-one_touch_tilt_&_openable_electric_sunroof",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Lighting",
+              "code": "civic-sedan-2016-lighting",
+              "sub_categories": [
+                {
+                  "title": "Front fog lights",
+                  "code": "civic-sedan-2016-front_fog_lights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "halogen",
+                      "code": "civic-sedan-2016-halogen",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "LED",
+                      "code": "civic-sedan-2016-led",
+                      "flag": "no"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-interior",
+          "categories": [
+            {
+              "title": "Driver aids",
+              "code": "civic-sedan-2016-driver_aids",
+              "sub_categories": [
+                {
+                  "title": "Cruise control with speed limiter",
+                  "code": "civic-sedan-2016-cruise_control_with_speed_limiter",
+                  "has_value": false
+                },
+                {
+                  "title": "Eco assist system (speedometer display)",
+                  "code": "civic-sedan-2016-eco_assist_system_(speedometer_display)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted controls",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_controls",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "ECON mode",
+                  "code": "civic-sedan-2016-econ_mode",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Comfort and convenience",
+              "code": "civic-sedan-2016-comfort_and_convenience",
+              "sub_categories": [
+                {
+                  "title": "Accessory power outlet (12v)",
+                  "code": "civic-sedan-2016-accessory_power_outlet_(12v)",
+                  "has_value": false
+                },
+                {
+                  "title": "Drilled alloy pedals",
+                  "code": "civic-sedan-2016-drilled_alloy_pedals",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Driver's footrest",
+                  "code": "civic-sedan-2016-driver's_footrest",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Dust and pollen filter",
+                  "code": "civic-sedan-2016-dust_and_pollen_filter",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electric parking brake with automatic brake hold",
+                  "code": "civic-sedan-2016-electric_parking_brake_with_automatic_brake_hold",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Front console (with 2 cup holders)",
+                  "code": "civic-sedan-2016-front_console_(with_2_cup_holders)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Remote central locking",
+                  "code": "civic-sedan-2016-remote_central_locking",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Smart keyless entry with push start button",
+                  "code": "civic-sedan-2016-smart_keyless_entry_with_push_start_button",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tilt and teslescopic steering column",
+                  "code": "civic-sedan-2016-tilt_and_teslescopic_steering_column",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior lighting",
+              "code": "civic-sedan-2016-interior_lighting",
+              "sub_categories": [
+                {
+                  "title": "Map lights",
+                  "code": "civic-sedan-2016-map_lights",
+                  "has_value": false
+                },
+                {
+                  "title": "Interior light",
+                  "code": "civic-sedan-2016-interior_light",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Cargo area light",
+                  "code": "civic-sedan-2016-cargo_area_light",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Seating extras",
+              "code": "civic-sedan-2016-seating_extras",
+              "sub_categories": [
+                {
+                  "title": "60:40 split fold rear seats",
+                  "code": "civic-sedan-2016-6040_split_fold_rear_seats",
+                  "has_value": false
+                },
+                {
+                  "title": "Rear seat armrest with cupholders",
+                  "code": "civic-sedan-2016-rear_seat_armrest_with_cupholders",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Heated front seats",
+                  "code": "civic-sedan-2016-heated_front_seats",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior trim",
+              "code": "civic-sedan-2016-interior_trim",
+              "sub_categories": [
+                {
+                  "title": "Seat trim material",
+                  "code": "civic-sedan-2016-seat_trim_material",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "black fabric",
+                      "code": "civic-sedan-2016-black_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black premium fabric",
+                      "code": "civic-sedan-2016-black_premium_fabric",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "black leather appointed1",
+                      "code": "civic-sedan-2016-black_leather_appointed1",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Leather-wrapped steering wheel",
+                  "code": "civic-sedan-2016-leather-wrapped_steering_wheel",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Leather-wrapped gear shift knob",
+                  "code": "civic-sedan-2016-leather-wrapped_gear_shift_knob",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Storage",
+              "code": "civic-sedan-2016-storage",
+              "sub_categories": [
+                {
+                  "title": "Beverage holders (x8)",
+                  "code": "civic-sedan-2016-beverage_holders_(x8)",
+                  "has_value": false
+                },
+                {
+                  "title": "Coat hanger (x2)",
+                  "code": "civic-sedan-2016-coat_hanger_(x2)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Sunviser ticket holder (driver-side)",
+                  "code": "civic-sedan-2016-sunviser_ticket_holder_(driver-side)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INFOTAINMENT",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-infotainment",
+          "categories": [
+            {
+              "title": "Advanced Display Audio (7\" touchscreen) featuring",
+              "code": "civic-sedan-2016-advanced_display_audio_(7\"_touchscreen)_featuring",
+              "sub_categories": [
+                {
+                  "title": "AM/FM radio",
+                  "code": "civic-sedan-2016-am-fm_radio",
+                  "has_value": false
+                },
+                {
+                  "title": "Android Autoâ„¢ with Googleâ„¢ Voice search#",
+                  "code": "civic-sedan-2016-android_autoâ„¢_with_googleâ„¢_voice_search#",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Apple CarPlayâ„¢ with SiriÂ® Eyes Free modeâ€¡",
+                  "code": "civic-sedan-2016-apple_carplayâ„¢_with_siriÂ®_eyes_free_modeâ€¡",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "BluetoothÂ® connectivity with audio streamingÂ°",
+                  "code": "civic-sedan-2016-bluetoothÂ®_connectivity_with_audio_streamingÂ°",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Digital Radio (DAB+)^",
+                  "code": "civic-sedan-2016-digital_radio_(dab+)^",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "GarminÂ® satellite navigationËœ (with SUNAâ‰  Live Traffic updates)",
+                  "code": "civic-sedan-2016-garminÂ®_satellite_navigationËœ_(with_sunaâ‰ _live_traffic_updates)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "HDMI connectivity (1 port)",
+                  "code": "civic-sedan-2016-hdmi_connectivity_(1_port)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "USB connectivity (2 ports)",
+                  "code": "civic-sedan-2016-usb_connectivity_(2_ports)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Speakers",
+              "code": "civic-sedan-2016-speakers",
+              "sub_categories": [
+                {
+                  "title": "160W sound system (4 speakers and 4 tweeters)",
+                  "code": "civic-sedan-2016-160w_sound_system_(4_speakers_and_4_tweeters)",
+                  "has_value": false
+                },
+                {
+                  "title": "452W premium sound system (10 speakers inc. subwoofer)",
+                  "code": "civic-sedan-2016-452w_premium_sound_system_(10_speakers_inc._subwoofer)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Speed-sensitive Volume Compensation (SVC)",
+                  "code": "civic-sedan-2016-speed-sensitive_volume_compensation_(svc)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SAFETY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-safety",
+          "categories": [
+            {
+              "title": "Active safety",
+              "code": "civic-sedan-2016-active_safety",
+              "sub_categories": [
+                {
+                  "title": "Honda Sensing featuring",
+                  "code": "civic-sedan-2016-honda_sensing_featuring",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Forward Collision Warning (FCW)",
+                      "code": "civic-sedan-2016-forward_collision_warning_(fcw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Collision Mitigation Braking System (CMBS)",
+                      "code": "civic-sedan-2016-collision_mitigation_braking_system_(cmbs)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Departure Warning (LDW)",
+                      "code": "civic-sedan-2016-lane_departure_warning_(ldw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Keeping Assist System (LKAS)",
+                      "code": "civic-sedan-2016-lane_keeping_assist_system_(lkas)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Road Departure Mitigation System (RDM)",
+                      "code": "civic-sedan-2016-road_departure_mitigation_system_(rdm)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Adaptive Cruise Control (ACC) with Low-Speed Follow (LSF)",
+                      "code": "civic-sedan-2016-adaptive_cruise_control_(acc)_with_low-speed_follow_(lsf)",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Agile Handling Assist System (AHAS)",
+                  "code": "civic-sedan-2016-agile_handling_assist_system_(ahas)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Hill Start Assist (HSA)",
+                  "code": "civic-sedan-2016-hill_start_assist_(hsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "LaneWatch",
+                  "code": "civic-sedan-2016-lanewatch",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Straight driving steering assist",
+                  "code": "civic-sedan-2016-straight_driving_steering_assist",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Vehicle Stability Assist (VSA)",
+                  "code": "civic-sedan-2016-vehicle_stability_assist_(vsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Traction Control System (TCS)",
+                  "code": "civic-sedan-2016-traction_control_system_(tcs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Anti-lock Braking System (ABS)",
+                  "code": "civic-sedan-2016-anti-lock_braking_system_(abs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electronic Brake-force Distribution (EBD)",
+                  "code": "civic-sedan-2016-electronic_brake-force_distribution_(ebd)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Brake Assist (EBA)",
+                  "code": "civic-sedan-2016-emergency_brake_assist_(eba)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Stop Signal (ESS)",
+                  "code": "civic-sedan-2016-emergency_stop_signal_(ess)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre Deflation Warning System (DWS)",
+                  "code": "civic-sedan-2016-tyre_deflation_warning_system_(dws)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Passive safety",
+              "code": "civic-sedan-2016-passive_safety",
+              "sub_categories": [
+                {
+                  "title": "Child restraint anchorages",
+                  "code": "civic-sedan-2016-child_restraint_anchorages",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "ISO fix (up to 2)",
+                      "code": "civic-sedan-2016-iso_fix_(up_to_2)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Child anchorage point (x3)",
+                      "code": "civic-sedan-2016-child_anchorage_point_(x3)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Child-proof rear door locks",
+                  "code": "civic-sedan-2016-child-proof_rear_door_locks",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Head restraints (x5)",
+                  "code": "civic-sedan-2016-head_restraints_(x5)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Side impact protection",
+                  "code": "civic-sedan-2016-side_impact_protection",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Parking aids",
+              "code": "civic-sedan-2016-parking_aids",
+              "sub_categories": [
+                {
+                  "title": "Parking sensors",
+                  "code": "civic-sedan-2016-parking_sensors",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-sedan-2016-front",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-sedan-2016-rear",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Security",
+              "code": "civic-sedan-2016-security",
+              "sub_categories": [
+                {
+                  "title": "Engine immobiliser",
+                  "code": "civic-sedan-2016-engine_immobiliser",
+                  "has_value": false
+                },
+                {
+                  "title": "Security alarm system",
+                  "code": "civic-sedan-2016-security_alarm_system",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Automatic 'walk away' door locking",
+                  "code": "civic-sedan-2016-automatic_'walk_away'_door_locking",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DIMENSIONS, WEIGHTS AND CAPACITIES",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-dimensions,",
+          "categories": [
+            {
+              "title": "Dimensions",
+              "code": "civic-sedan-2016-dimensions",
+              "sub_categories": [
+                {
+                  "title": "Overall length (mm)",
+                  "code": "civic-sedan-2016-overall_length_(mm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall width (mm)",
+                  "code": "civic-sedan-2016-overall_width_(mm)",
+                  "text_value": "1799.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall height (mm)",
+                  "code": "civic-sedan-2016-overall_height_(mm)",
+                  "text_value": "1416.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Wheelbase (mm)",
+                  "code": "civic-sedan-2016-wheelbase_(mm)",
+                  "text_value": "2700.0",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Weights",
+              "code": "civic-sedan-2016-weights",
+              "sub_categories": [
+                {
+                  "title": "Tare mass (kg)",
+                  "code": "civic-sedan-2016-tare_mass_(kg)",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Capacities",
+              "code": "civic-sedan-2016-capacities",
+              "sub_categories": [
+                {
+                  "title": "Boot capacity (litres in VDA standard)",
+                  "code": "civic-sedan-2016-boot_capacity_(litres_in_vda_standard)",
+                  "has_value": false
+                },
+                {
+                  "title": "Seat capacity",
+                  "code": "civic-sedan-2016-seat_capacity",
+                  "text_value": "5.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel tank capacity (L)",
+                  "code": "civic-sedan-2016-fuel_tank_capacity_(l)",
+                  "text_value": "47.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TYRES & WHEELS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-tyres",
+          "categories": [
+            {
+              "title": "Tyers",
+              "code": "civic-sedan-2016-tyers",
+              "sub_categories": [
+                {
+                  "title": "Tyre size",
+                  "code": "civic-sedan-2016-tyre_size",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Wheels",
+              "code": "civic-sedan-2016-wheels",
+              "sub_categories": [
+                {
+                  "title": "Wheel type",
+                  "code": "civic-sedan-2016-wheel_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "steel",
+                      "code": "civic-sedan-2016-steel",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "alloy",
+                      "code": "civic-sedan-2016-alloy",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wheel size",
+                  "code": "civic-sedan-2016-wheel_size",
+                  "text_value": "16\"",
+                  "has_value": false
+                },
+                {
+                  "title": "Space saver spare wheel",
+                  "code": "civic-sedan-2016-space_saver_spare_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "order": 0
+    },
+    {
+      "title": "VTi-L",
+      "image": "/content/dam/honda/cars/models/civic-sedan-2016/product/sideprofile/Civic_VTi-L_MASTER_LEFT_RGB.png",
+      "code": "civic-sedan-2016-vti-l",
+      "isDefaultVariant": false,
+      "disclaimer": "disclaimer",
+      "specification_image": "/content/dam/honda/cars/models/civic-sedan-2016/product/front34/Civic_VTi-L_MASTER_F34_RGB.png",
+      "specification_title": "VTi-L 1.5L TURBO",
+      "specifications": [
+        {
+          "title": "POWERTRAIN",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-powertrain",
+          "categories": [
+            {
+              "title": "Engine",
+              "code": "civic-sedan-2016-engine",
+              "sub_categories": [
+                {
+                  "title": "Engine type",
+                  "code": "civic-sedan-2016-engine_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "SOHC i-VTEC In line 4-cylinder",
+                      "code": "civic-sedan-2016-sohc_i-vtec_in_line_4-cylinder",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "DOHC VTEC Turbo In line 4-cylinder",
+                      "code": "civic-sedan-2016-dohc_vtec_turbo_in_line_4-cylinder",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Engine capacity",
+                  "code": "civic-sedan-2016-engine_capacity",
+                  "text_value": "1.5L - 1498cc",
+                  "has_value": false
+                },
+                {
+                  "title": "Compression ratio",
+                  "code": "civic-sedan-2016-compression_ratio",
+                  "text_value": "10.6",
+                  "has_value": false
+                },
+                {
+                  "title": "Bore x stroke (mm)",
+                  "code": "civic-sedan-2016-bore_x_stroke_(mm)",
+                  "text_value": "73x89.5",
+                  "has_value": false
+                },
+                {
+                  "title": "Drive By Wire throttle (DBW)",
+                  "code": "civic-sedan-2016-drive_by_wire_throttle_(dbw)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Transmission",
+              "code": "civic-sedan-2016-transmission",
+              "sub_categories": [
+                {
+                  "title": "Continuously Variable Transmission (CVT)",
+                  "code": "civic-sedan-2016-continuously_variable_transmission_(cvt)",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted paddles shifters",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_paddles_shifters",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PERFORMANCE AND FUEL ECONOMY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-performance",
+          "categories": [
+            {
+              "title": "Performance",
+              "code": "civic-sedan-2016-performance",
+              "sub_categories": [
+                {
+                  "title": "Maximum power (kW@rpm)",
+                  "code": "civic-sedan-2016-maximum_power_(kw@rpm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Maximum torque (Nm @rpm)",
+                  "code": "civic-sedan-2016-maximum_torque_(nm_@rpm)",
+                  "text_value": "220 @ 1700-5500",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Fuel economy",
+              "code": "civic-sedan-2016-fuel_economy",
+              "sub_categories": [
+                {
+                  "title": "Fuel consumption (litres/100km)*",
+                  "code": "civic-sedan-2016-fuel_consumption_(litres-100km)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "combined",
+                      "code": "civic-sedan-2016-combined",
+                      "text_value": "6.0"
+                    },
+                    {
+                      "title": "urban",
+                      "code": "civic-sedan-2016-urban",
+                      "text_value": "8.1"
+                    },
+                    {
+                      "title": "extra urban",
+                      "code": "civic-sedan-2016-extra_urban",
+                      "text_value": "4.8"
+                    }
+                  ]
+                },
+                {
+                  "title": "CO2 emission (g/km)*",
+                  "code": "civic-sedan-2016-co2_emission_(g-km)",
+                  "text_value": "140.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CHASIS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-chasis",
+          "categories": [
+            {
+              "title": "Suspension",
+              "code": "civic-sedan-2016-suspension",
+              "sub_categories": [
+                {
+                  "title": "MacPherson strut (front)",
+                  "code": "civic-sedan-2016-macpherson_strut_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Multi-link (rear)",
+                  "code": "civic-sedan-2016-multi-link_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Steering",
+              "code": "civic-sedan-2016-steering",
+              "sub_categories": [
+                {
+                  "title": "Motion Adaptive Electric Power Steering",
+                  "code": "civic-sedan-2016-motion_adaptive_electric_power_steering",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Brakes",
+              "code": "civic-sedan-2016-brakes",
+              "sub_categories": [
+                {
+                  "title": "Ventilated disc (front)",
+                  "code": "civic-sedan-2016-ventilated_disc_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Sold disc (rear)",
+                  "code": "civic-sedan-2016-sold_disc_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-exterior",
+          "categories": [
+            {
+              "title": "Styling",
+              "code": "civic-sedan-2016-styling",
+              "sub_categories": [
+                {
+                  "title": "Antenna",
+                  "code": "civic-sedan-2016-antenna",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "in-glass",
+                      "code": "civic-sedan-2016-in-glass",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "shark fin",
+                      "code": "civic-sedan-2016-shark_fin",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tailgate spoiler",
+                  "code": "civic-sedan-2016-tailgate_spoiler",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Piano black B-Pillar finish",
+                  "code": "civic-sedan-2016-piano_black_b-pillar_finish",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Convenience",
+              "code": "civic-sedan-2016-convenience",
+              "sub_categories": [
+                {
+                  "title": "Rear window demister",
+                  "code": "civic-sedan-2016-rear_window_demister",
+                  "has_value": false
+                },
+                {
+                  "title": "One touch tilt & openable electric sunroof",
+                  "code": "civic-sedan-2016-one_touch_tilt_&_openable_electric_sunroof",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Lighting",
+              "code": "civic-sedan-2016-lighting",
+              "sub_categories": [
+                {
+                  "title": "Front fog lights",
+                  "code": "civic-sedan-2016-front_fog_lights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "halogen",
+                      "code": "civic-sedan-2016-halogen",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "LED",
+                      "code": "civic-sedan-2016-led",
+                      "flag": "no"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-interior",
+          "categories": [
+            {
+              "title": "Driver aids",
+              "code": "civic-sedan-2016-driver_aids",
+              "sub_categories": [
+                {
+                  "title": "Cruise control with speed limiter",
+                  "code": "civic-sedan-2016-cruise_control_with_speed_limiter",
+                  "has_value": false
+                },
+                {
+                  "title": "Eco assist system (speedometer display)",
+                  "code": "civic-sedan-2016-eco_assist_system_(speedometer_display)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted controls",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_controls",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "ECON mode",
+                  "code": "civic-sedan-2016-econ_mode",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Comfort and convenience",
+              "code": "civic-sedan-2016-comfort_and_convenience",
+              "sub_categories": [
+                {
+                  "title": "Accessory power outlet (12v)",
+                  "code": "civic-sedan-2016-accessory_power_outlet_(12v)",
+                  "has_value": false
+                },
+                {
+                  "title": "Drilled alloy pedals",
+                  "code": "civic-sedan-2016-drilled_alloy_pedals",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Driver's footrest",
+                  "code": "civic-sedan-2016-driver's_footrest",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Dust and pollen filter",
+                  "code": "civic-sedan-2016-dust_and_pollen_filter",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electric parking brake with automatic brake hold",
+                  "code": "civic-sedan-2016-electric_parking_brake_with_automatic_brake_hold",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Front console (with 2 cup holders)",
+                  "code": "civic-sedan-2016-front_console_(with_2_cup_holders)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Remote central locking",
+                  "code": "civic-sedan-2016-remote_central_locking",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Smart keyless entry with push start button",
+                  "code": "civic-sedan-2016-smart_keyless_entry_with_push_start_button",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tilt and teslescopic steering column",
+                  "code": "civic-sedan-2016-tilt_and_teslescopic_steering_column",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior lighting",
+              "code": "civic-sedan-2016-interior_lighting",
+              "sub_categories": [
+                {
+                  "title": "Map lights",
+                  "code": "civic-sedan-2016-map_lights",
+                  "has_value": false
+                },
+                {
+                  "title": "Interior light",
+                  "code": "civic-sedan-2016-interior_light",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Cargo area light",
+                  "code": "civic-sedan-2016-cargo_area_light",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Seating extras",
+              "code": "civic-sedan-2016-seating_extras",
+              "sub_categories": [
+                {
+                  "title": "60:40 split fold rear seats",
+                  "code": "civic-sedan-2016-6040_split_fold_rear_seats",
+                  "has_value": false
+                },
+                {
+                  "title": "Rear seat armrest with cupholders",
+                  "code": "civic-sedan-2016-rear_seat_armrest_with_cupholders",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Heated front seats",
+                  "code": "civic-sedan-2016-heated_front_seats",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior trim",
+              "code": "civic-sedan-2016-interior_trim",
+              "sub_categories": [
+                {
+                  "title": "Seat trim material",
+                  "code": "civic-sedan-2016-seat_trim_material",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "black fabric",
+                      "code": "civic-sedan-2016-black_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black premium fabric",
+                      "code": "civic-sedan-2016-black_premium_fabric",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "black leather appointed1",
+                      "code": "civic-sedan-2016-black_leather_appointed1",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Leather-wrapped steering wheel",
+                  "code": "civic-sedan-2016-leather-wrapped_steering_wheel",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Leather-wrapped gear shift knob",
+                  "code": "civic-sedan-2016-leather-wrapped_gear_shift_knob",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Storage",
+              "code": "civic-sedan-2016-storage",
+              "sub_categories": [
+                {
+                  "title": "Beverage holders (x8)",
+                  "code": "civic-sedan-2016-beverage_holders_(x8)",
+                  "has_value": false
+                },
+                {
+                  "title": "Coat hanger (x2)",
+                  "code": "civic-sedan-2016-coat_hanger_(x2)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Sunviser ticket holder (driver-side)",
+                  "code": "civic-sedan-2016-sunviser_ticket_holder_(driver-side)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INFOTAINMENT",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-infotainment",
+          "categories": [
+            {
+              "title": "Advanced Display Audio (7\" touchscreen) featuring",
+              "code": "civic-sedan-2016-advanced_display_audio_(7\"_touchscreen)_featuring",
+              "sub_categories": [
+                {
+                  "title": "AM/FM radio",
+                  "code": "civic-sedan-2016-am-fm_radio",
+                  "has_value": false
+                },
+                {
+                  "title": "Android Autoâ„¢ with Googleâ„¢ Voice search#",
+                  "code": "civic-sedan-2016-android_autoâ„¢_with_googleâ„¢_voice_search#",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Apple CarPlayâ„¢ with SiriÂ® Eyes Free modeâ€¡",
+                  "code": "civic-sedan-2016-apple_carplayâ„¢_with_siriÂ®_eyes_free_modeâ€¡",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "BluetoothÂ® connectivity with audio streamingÂ°",
+                  "code": "civic-sedan-2016-bluetoothÂ®_connectivity_with_audio_streamingÂ°",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Digital Radio (DAB+)^",
+                  "code": "civic-sedan-2016-digital_radio_(dab+)^",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "GarminÂ® satellite navigationËœ (with SUNAâ‰  Live Traffic updates)",
+                  "code": "civic-sedan-2016-garminÂ®_satellite_navigationËœ_(with_sunaâ‰ _live_traffic_updates)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "HDMI connectivity (1 port)",
+                  "code": "civic-sedan-2016-hdmi_connectivity_(1_port)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "USB connectivity (2 ports)",
+                  "code": "civic-sedan-2016-usb_connectivity_(2_ports)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Speakers",
+              "code": "civic-sedan-2016-speakers",
+              "sub_categories": [
+                {
+                  "title": "160W sound system (4 speakers and 4 tweeters)",
+                  "code": "civic-sedan-2016-160w_sound_system_(4_speakers_and_4_tweeters)",
+                  "has_value": false
+                },
+                {
+                  "title": "452W premium sound system (10 speakers inc. subwoofer)",
+                  "code": "civic-sedan-2016-452w_premium_sound_system_(10_speakers_inc._subwoofer)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Speed-sensitive Volume Compensation (SVC)",
+                  "code": "civic-sedan-2016-speed-sensitive_volume_compensation_(svc)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SAFETY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-safety",
+          "categories": [
+            {
+              "title": "Active safety",
+              "code": "civic-sedan-2016-active_safety",
+              "sub_categories": [
+                {
+                  "title": "Honda Sensing featuring",
+                  "code": "civic-sedan-2016-honda_sensing_featuring",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Forward Collision Warning (FCW)",
+                      "code": "civic-sedan-2016-forward_collision_warning_(fcw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Collision Mitigation Braking System (CMBS)",
+                      "code": "civic-sedan-2016-collision_mitigation_braking_system_(cmbs)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Departure Warning (LDW)",
+                      "code": "civic-sedan-2016-lane_departure_warning_(ldw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Keeping Assist System (LKAS)",
+                      "code": "civic-sedan-2016-lane_keeping_assist_system_(lkas)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Road Departure Mitigation System (RDM)",
+                      "code": "civic-sedan-2016-road_departure_mitigation_system_(rdm)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Adaptive Cruise Control (ACC) with Low-Speed Follow (LSF)",
+                      "code": "civic-sedan-2016-adaptive_cruise_control_(acc)_with_low-speed_follow_(lsf)",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Agile Handling Assist System (AHAS)",
+                  "code": "civic-sedan-2016-agile_handling_assist_system_(ahas)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Hill Start Assist (HSA)",
+                  "code": "civic-sedan-2016-hill_start_assist_(hsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "LaneWatch",
+                  "code": "civic-sedan-2016-lanewatch",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Straight driving steering assist",
+                  "code": "civic-sedan-2016-straight_driving_steering_assist",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Vehicle Stability Assist (VSA)",
+                  "code": "civic-sedan-2016-vehicle_stability_assist_(vsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Traction Control System (TCS)",
+                  "code": "civic-sedan-2016-traction_control_system_(tcs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Anti-lock Braking System (ABS)",
+                  "code": "civic-sedan-2016-anti-lock_braking_system_(abs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electronic Brake-force Distribution (EBD)",
+                  "code": "civic-sedan-2016-electronic_brake-force_distribution_(ebd)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Brake Assist (EBA)",
+                  "code": "civic-sedan-2016-emergency_brake_assist_(eba)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Stop Signal (ESS)",
+                  "code": "civic-sedan-2016-emergency_stop_signal_(ess)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre Deflation Warning System (DWS)",
+                  "code": "civic-sedan-2016-tyre_deflation_warning_system_(dws)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Passive safety",
+              "code": "civic-sedan-2016-passive_safety",
+              "sub_categories": [
+                {
+                  "title": "Child restraint anchorages",
+                  "code": "civic-sedan-2016-child_restraint_anchorages",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "ISO fix (up to 2)",
+                      "code": "civic-sedan-2016-iso_fix_(up_to_2)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Child anchorage point (x3)",
+                      "code": "civic-sedan-2016-child_anchorage_point_(x3)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Child-proof rear door locks",
+                  "code": "civic-sedan-2016-child-proof_rear_door_locks",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Head restraints (x5)",
+                  "code": "civic-sedan-2016-head_restraints_(x5)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Side impact protection",
+                  "code": "civic-sedan-2016-side_impact_protection",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Parking aids",
+              "code": "civic-sedan-2016-parking_aids",
+              "sub_categories": [
+                {
+                  "title": "Parking sensors",
+                  "code": "civic-sedan-2016-parking_sensors",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-sedan-2016-front",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-sedan-2016-rear",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Security",
+              "code": "civic-sedan-2016-security",
+              "sub_categories": [
+                {
+                  "title": "Engine immobiliser",
+                  "code": "civic-sedan-2016-engine_immobiliser",
+                  "has_value": false
+                },
+                {
+                  "title": "Security alarm system",
+                  "code": "civic-sedan-2016-security_alarm_system",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Automatic 'walk away' door locking",
+                  "code": "civic-sedan-2016-automatic_'walk_away'_door_locking",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DIMENSIONS, WEIGHTS AND CAPACITIES",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-dimensions,",
+          "categories": [
+            {
+              "title": "Dimensions",
+              "code": "civic-sedan-2016-dimensions",
+              "sub_categories": [
+                {
+                  "title": "Overall length (mm)",
+                  "code": "civic-sedan-2016-overall_length_(mm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall width (mm)",
+                  "code": "civic-sedan-2016-overall_width_(mm)",
+                  "text_value": "1799.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall height (mm)",
+                  "code": "civic-sedan-2016-overall_height_(mm)",
+                  "text_value": "1416.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Wheelbase (mm)",
+                  "code": "civic-sedan-2016-wheelbase_(mm)",
+                  "text_value": "2700.0",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Weights",
+              "code": "civic-sedan-2016-weights",
+              "sub_categories": [
+                {
+                  "title": "Tare mass (kg)",
+                  "code": "civic-sedan-2016-tare_mass_(kg)",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Capacities",
+              "code": "civic-sedan-2016-capacities",
+              "sub_categories": [
+                {
+                  "title": "Boot capacity (litres in VDA standard)",
+                  "code": "civic-sedan-2016-boot_capacity_(litres_in_vda_standard)",
+                  "has_value": false
+                },
+                {
+                  "title": "Seat capacity",
+                  "code": "civic-sedan-2016-seat_capacity",
+                  "text_value": "5.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel tank capacity (L)",
+                  "code": "civic-sedan-2016-fuel_tank_capacity_(l)",
+                  "text_value": "47.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TYRES & WHEELS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-tyres",
+          "categories": [
+            {
+              "title": "Tyers",
+              "code": "civic-sedan-2016-tyers",
+              "sub_categories": [
+                {
+                  "title": "Tyre size",
+                  "code": "civic-sedan-2016-tyre_size",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Wheels",
+              "code": "civic-sedan-2016-wheels",
+              "sub_categories": [
+                {
+                  "title": "Wheel type",
+                  "code": "civic-sedan-2016-wheel_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "steel",
+                      "code": "civic-sedan-2016-steel",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "alloy",
+                      "code": "civic-sedan-2016-alloy",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wheel size",
+                  "code": "civic-sedan-2016-wheel_size",
+                  "text_value": "17\"",
+                  "has_value": false
+                },
+                {
+                  "title": "Space saver spare wheel",
+                  "code": "civic-sedan-2016-space_saver_spare_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "order": 0
+    },
+    {
+      "title": "RS",
+      "image": "/content/dam/honda/cars/models/civic-sedan-2016/product/sideprofile/Civic_RS_MASTER_LEFT_RGB.png",
+      "code": "civic-sedan-2016-rs",
+      "isDefaultVariant": false,
+      "disclaimer": "disclaimer",
+      "specification_image": "/content/dam/honda/cars/models/civic-sedan-2016/product/front34/Civic_RS_MASTER_F34_RGB.png",
+      "specification_title": "RS 1.5L TURBO",
+      "specifications": [
+        {
+          "title": "POWERTRAIN",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-powertrain",
+          "categories": [
+            {
+              "title": "Engine",
+              "code": "civic-sedan-2016-engine",
+              "sub_categories": [
+                {
+                  "title": "Engine type",
+                  "code": "civic-sedan-2016-engine_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "SOHC i-VTEC In line 4-cylinder",
+                      "code": "civic-sedan-2016-sohc_i-vtec_in_line_4-cylinder",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "DOHC VTEC Turbo In line 4-cylinder",
+                      "code": "civic-sedan-2016-dohc_vtec_turbo_in_line_4-cylinder",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Engine capacity",
+                  "code": "civic-sedan-2016-engine_capacity",
+                  "text_value": "1.5L - 1498cc",
+                  "has_value": false
+                },
+                {
+                  "title": "Compression ratio",
+                  "code": "civic-sedan-2016-compression_ratio",
+                  "text_value": "10.6",
+                  "has_value": false
+                },
+                {
+                  "title": "Bore x stroke (mm)",
+                  "code": "civic-sedan-2016-bore_x_stroke_(mm)",
+                  "text_value": "73x89.5",
+                  "has_value": false
+                },
+                {
+                  "title": "Drive By Wire throttle (DBW)",
+                  "code": "civic-sedan-2016-drive_by_wire_throttle_(dbw)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Transmission",
+              "code": "civic-sedan-2016-transmission",
+              "sub_categories": [
+                {
+                  "title": "Continuously Variable Transmission (CVT)",
+                  "code": "civic-sedan-2016-continuously_variable_transmission_(cvt)",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted paddles shifters",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_paddles_shifters",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PERFORMANCE AND FUEL ECONOMY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-performance",
+          "categories": [
+            {
+              "title": "Performance",
+              "code": "civic-sedan-2016-performance",
+              "sub_categories": [
+                {
+                  "title": "Maximum power (kW@rpm)",
+                  "code": "civic-sedan-2016-maximum_power_(kw@rpm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Maximum torque (Nm @rpm)",
+                  "code": "civic-sedan-2016-maximum_torque_(nm_@rpm)",
+                  "text_value": "220 @ 1700-5500",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Fuel economy",
+              "code": "civic-sedan-2016-fuel_economy",
+              "sub_categories": [
+                {
+                  "title": "Fuel consumption (litres/100km)*",
+                  "code": "civic-sedan-2016-fuel_consumption_(litres-100km)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "combined",
+                      "code": "civic-sedan-2016-combined",
+                      "text_value": "6.0"
+                    },
+                    {
+                      "title": "urban",
+                      "code": "civic-sedan-2016-urban",
+                      "text_value": "8.1"
+                    },
+                    {
+                      "title": "extra urban",
+                      "code": "civic-sedan-2016-extra_urban",
+                      "text_value": "4.8"
+                    }
+                  ]
+                },
+                {
+                  "title": "CO2 emission (g/km)*",
+                  "code": "civic-sedan-2016-co2_emission_(g-km)",
+                  "text_value": "140.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CHASIS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-chasis",
+          "categories": [
+            {
+              "title": "Suspension",
+              "code": "civic-sedan-2016-suspension",
+              "sub_categories": [
+                {
+                  "title": "MacPherson strut (front)",
+                  "code": "civic-sedan-2016-macpherson_strut_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Multi-link (rear)",
+                  "code": "civic-sedan-2016-multi-link_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Steering",
+              "code": "civic-sedan-2016-steering",
+              "sub_categories": [
+                {
+                  "title": "Motion Adaptive Electric Power Steering",
+                  "code": "civic-sedan-2016-motion_adaptive_electric_power_steering",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Brakes",
+              "code": "civic-sedan-2016-brakes",
+              "sub_categories": [
+                {
+                  "title": "Ventilated disc (front)",
+                  "code": "civic-sedan-2016-ventilated_disc_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Sold disc (rear)",
+                  "code": "civic-sedan-2016-sold_disc_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-exterior",
+          "categories": [
+            {
+              "title": "Styling",
+              "code": "civic-sedan-2016-styling",
+              "sub_categories": [
+                {
+                  "title": "Antenna",
+                  "code": "civic-sedan-2016-antenna",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "in-glass",
+                      "code": "civic-sedan-2016-in-glass",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "shark fin",
+                      "code": "civic-sedan-2016-shark_fin",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tailgate spoiler",
+                  "code": "civic-sedan-2016-tailgate_spoiler",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Piano black B-Pillar finish",
+                  "code": "civic-sedan-2016-piano_black_b-pillar_finish",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Convenience",
+              "code": "civic-sedan-2016-convenience",
+              "sub_categories": [
+                {
+                  "title": "Rear window demister",
+                  "code": "civic-sedan-2016-rear_window_demister",
+                  "has_value": false
+                },
+                {
+                  "title": "One touch tilt & openable electric sunroof",
+                  "code": "civic-sedan-2016-one_touch_tilt_&_openable_electric_sunroof",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Lighting",
+              "code": "civic-sedan-2016-lighting",
+              "sub_categories": [
+                {
+                  "title": "Front fog lights",
+                  "code": "civic-sedan-2016-front_fog_lights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "halogen",
+                      "code": "civic-sedan-2016-halogen",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "LED",
+                      "code": "civic-sedan-2016-led",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-interior",
+          "categories": [
+            {
+              "title": "Driver aids",
+              "code": "civic-sedan-2016-driver_aids",
+              "sub_categories": [
+                {
+                  "title": "Cruise control with speed limiter",
+                  "code": "civic-sedan-2016-cruise_control_with_speed_limiter",
+                  "has_value": false
+                },
+                {
+                  "title": "Eco assist system (speedometer display)",
+                  "code": "civic-sedan-2016-eco_assist_system_(speedometer_display)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted controls",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_controls",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "ECON mode",
+                  "code": "civic-sedan-2016-econ_mode",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Comfort and convenience",
+              "code": "civic-sedan-2016-comfort_and_convenience",
+              "sub_categories": [
+                {
+                  "title": "Accessory power outlet (12v)",
+                  "code": "civic-sedan-2016-accessory_power_outlet_(12v)",
+                  "has_value": false
+                },
+                {
+                  "title": "Drilled alloy pedals",
+                  "code": "civic-sedan-2016-drilled_alloy_pedals",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Driver's footrest",
+                  "code": "civic-sedan-2016-driver's_footrest",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Dust and pollen filter",
+                  "code": "civic-sedan-2016-dust_and_pollen_filter",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electric parking brake with automatic brake hold",
+                  "code": "civic-sedan-2016-electric_parking_brake_with_automatic_brake_hold",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Front console (with 2 cup holders)",
+                  "code": "civic-sedan-2016-front_console_(with_2_cup_holders)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Remote central locking",
+                  "code": "civic-sedan-2016-remote_central_locking",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Smart keyless entry with push start button",
+                  "code": "civic-sedan-2016-smart_keyless_entry_with_push_start_button",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tilt and teslescopic steering column",
+                  "code": "civic-sedan-2016-tilt_and_teslescopic_steering_column",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior lighting",
+              "code": "civic-sedan-2016-interior_lighting",
+              "sub_categories": [
+                {
+                  "title": "Map lights",
+                  "code": "civic-sedan-2016-map_lights",
+                  "has_value": false
+                },
+                {
+                  "title": "Interior light",
+                  "code": "civic-sedan-2016-interior_light",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Cargo area light",
+                  "code": "civic-sedan-2016-cargo_area_light",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Seating extras",
+              "code": "civic-sedan-2016-seating_extras",
+              "sub_categories": [
+                {
+                  "title": "60:40 split fold rear seats",
+                  "code": "civic-sedan-2016-6040_split_fold_rear_seats",
+                  "has_value": false
+                },
+                {
+                  "title": "Rear seat armrest with cupholders",
+                  "code": "civic-sedan-2016-rear_seat_armrest_with_cupholders",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Heated front seats",
+                  "code": "civic-sedan-2016-heated_front_seats",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior trim",
+              "code": "civic-sedan-2016-interior_trim",
+              "sub_categories": [
+                {
+                  "title": "Seat trim material",
+                  "code": "civic-sedan-2016-seat_trim_material",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "black fabric",
+                      "code": "civic-sedan-2016-black_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black premium fabric",
+                      "code": "civic-sedan-2016-black_premium_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black leather appointed1",
+                      "code": "civic-sedan-2016-black_leather_appointed1",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Leather-wrapped steering wheel",
+                  "code": "civic-sedan-2016-leather-wrapped_steering_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Leather-wrapped gear shift knob",
+                  "code": "civic-sedan-2016-leather-wrapped_gear_shift_knob",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Storage",
+              "code": "civic-sedan-2016-storage",
+              "sub_categories": [
+                {
+                  "title": "Beverage holders (x8)",
+                  "code": "civic-sedan-2016-beverage_holders_(x8)",
+                  "has_value": false
+                },
+                {
+                  "title": "Coat hanger (x2)",
+                  "code": "civic-sedan-2016-coat_hanger_(x2)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Sunviser ticket holder (driver-side)",
+                  "code": "civic-sedan-2016-sunviser_ticket_holder_(driver-side)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INFOTAINMENT",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-infotainment",
+          "categories": [
+            {
+              "title": "Advanced Display Audio (7\" touchscreen) featuring",
+              "code": "civic-sedan-2016-advanced_display_audio_(7\"_touchscreen)_featuring",
+              "sub_categories": [
+                {
+                  "title": "AM/FM radio",
+                  "code": "civic-sedan-2016-am-fm_radio",
+                  "has_value": false
+                },
+                {
+                  "title": "Android Autoâ„¢ with Googleâ„¢ Voice search#",
+                  "code": "civic-sedan-2016-android_autoâ„¢_with_googleâ„¢_voice_search#",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Apple CarPlayâ„¢ with SiriÂ® Eyes Free modeâ€¡",
+                  "code": "civic-sedan-2016-apple_carplayâ„¢_with_siriÂ®_eyes_free_modeâ€¡",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "BluetoothÂ® connectivity with audio streamingÂ°",
+                  "code": "civic-sedan-2016-bluetoothÂ®_connectivity_with_audio_streamingÂ°",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Digital Radio (DAB+)^",
+                  "code": "civic-sedan-2016-digital_radio_(dab+)^",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "GarminÂ® satellite navigationËœ (with SUNAâ‰  Live Traffic updates)",
+                  "code": "civic-sedan-2016-garminÂ®_satellite_navigationËœ_(with_sunaâ‰ _live_traffic_updates)",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "HDMI connectivity (1 port)",
+                  "code": "civic-sedan-2016-hdmi_connectivity_(1_port)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "USB connectivity (2 ports)",
+                  "code": "civic-sedan-2016-usb_connectivity_(2_ports)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Speakers",
+              "code": "civic-sedan-2016-speakers",
+              "sub_categories": [
+                {
+                  "title": "160W sound system (4 speakers and 4 tweeters)",
+                  "code": "civic-sedan-2016-160w_sound_system_(4_speakers_and_4_tweeters)",
+                  "has_value": false
+                },
+                {
+                  "title": "452W premium sound system (10 speakers inc. subwoofer)",
+                  "code": "civic-sedan-2016-452w_premium_sound_system_(10_speakers_inc._subwoofer)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Speed-sensitive Volume Compensation (SVC)",
+                  "code": "civic-sedan-2016-speed-sensitive_volume_compensation_(svc)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SAFETY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-safety",
+          "categories": [
+            {
+              "title": "Active safety",
+              "code": "civic-sedan-2016-active_safety",
+              "sub_categories": [
+                {
+                  "title": "Honda Sensing featuring",
+                  "code": "civic-sedan-2016-honda_sensing_featuring",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Forward Collision Warning (FCW)",
+                      "code": "civic-sedan-2016-forward_collision_warning_(fcw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Collision Mitigation Braking System (CMBS)",
+                      "code": "civic-sedan-2016-collision_mitigation_braking_system_(cmbs)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Departure Warning (LDW)",
+                      "code": "civic-sedan-2016-lane_departure_warning_(ldw)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Lane Keeping Assist System (LKAS)",
+                      "code": "civic-sedan-2016-lane_keeping_assist_system_(lkas)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Road Departure Mitigation System (RDM)",
+                      "code": "civic-sedan-2016-road_departure_mitigation_system_(rdm)",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "Adaptive Cruise Control (ACC) with Low-Speed Follow (LSF)",
+                      "code": "civic-sedan-2016-adaptive_cruise_control_(acc)_with_low-speed_follow_(lsf)",
+                      "flag": "no"
+                    }
+                  ]
+                },
+                {
+                  "title": "Agile Handling Assist System (AHAS)",
+                  "code": "civic-sedan-2016-agile_handling_assist_system_(ahas)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Hill Start Assist (HSA)",
+                  "code": "civic-sedan-2016-hill_start_assist_(hsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "LaneWatch",
+                  "code": "civic-sedan-2016-lanewatch",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Straight driving steering assist",
+                  "code": "civic-sedan-2016-straight_driving_steering_assist",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Vehicle Stability Assist (VSA)",
+                  "code": "civic-sedan-2016-vehicle_stability_assist_(vsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Traction Control System (TCS)",
+                  "code": "civic-sedan-2016-traction_control_system_(tcs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Anti-lock Braking System (ABS)",
+                  "code": "civic-sedan-2016-anti-lock_braking_system_(abs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electronic Brake-force Distribution (EBD)",
+                  "code": "civic-sedan-2016-electronic_brake-force_distribution_(ebd)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Brake Assist (EBA)",
+                  "code": "civic-sedan-2016-emergency_brake_assist_(eba)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Stop Signal (ESS)",
+                  "code": "civic-sedan-2016-emergency_stop_signal_(ess)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre Deflation Warning System (DWS)",
+                  "code": "civic-sedan-2016-tyre_deflation_warning_system_(dws)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Passive safety",
+              "code": "civic-sedan-2016-passive_safety",
+              "sub_categories": [
+                {
+                  "title": "Child restraint anchorages",
+                  "code": "civic-sedan-2016-child_restraint_anchorages",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "ISO fix (up to 2)",
+                      "code": "civic-sedan-2016-iso_fix_(up_to_2)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Child anchorage point (x3)",
+                      "code": "civic-sedan-2016-child_anchorage_point_(x3)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Child-proof rear door locks",
+                  "code": "civic-sedan-2016-child-proof_rear_door_locks",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Head restraints (x5)",
+                  "code": "civic-sedan-2016-head_restraints_(x5)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Side impact protection",
+                  "code": "civic-sedan-2016-side_impact_protection",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Parking aids",
+              "code": "civic-sedan-2016-parking_aids",
+              "sub_categories": [
+                {
+                  "title": "Parking sensors",
+                  "code": "civic-sedan-2016-parking_sensors",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-sedan-2016-front",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-sedan-2016-rear",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Security",
+              "code": "civic-sedan-2016-security",
+              "sub_categories": [
+                {
+                  "title": "Engine immobiliser",
+                  "code": "civic-sedan-2016-engine_immobiliser",
+                  "has_value": false
+                },
+                {
+                  "title": "Security alarm system",
+                  "code": "civic-sedan-2016-security_alarm_system",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Automatic 'walk away' door locking",
+                  "code": "civic-sedan-2016-automatic_'walk_away'_door_locking",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DIMENSIONS, WEIGHTS AND CAPACITIES",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-dimensions,",
+          "categories": [
+            {
+              "title": "Dimensions",
+              "code": "civic-sedan-2016-dimensions",
+              "sub_categories": [
+                {
+                  "title": "Overall length (mm)",
+                  "code": "civic-sedan-2016-overall_length_(mm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall width (mm)",
+                  "code": "civic-sedan-2016-overall_width_(mm)",
+                  "text_value": "1799.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall height (mm)",
+                  "code": "civic-sedan-2016-overall_height_(mm)",
+                  "text_value": "1416.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Wheelbase (mm)",
+                  "code": "civic-sedan-2016-wheelbase_(mm)",
+                  "text_value": "2700.0",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Weights",
+              "code": "civic-sedan-2016-weights",
+              "sub_categories": [
+                {
+                  "title": "Tare mass (kg)",
+                  "code": "civic-sedan-2016-tare_mass_(kg)",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Capacities",
+              "code": "civic-sedan-2016-capacities",
+              "sub_categories": [
+                {
+                  "title": "Boot capacity (litres in VDA standard)",
+                  "code": "civic-sedan-2016-boot_capacity_(litres_in_vda_standard)",
+                  "has_value": false
+                },
+                {
+                  "title": "Seat capacity",
+                  "code": "civic-sedan-2016-seat_capacity",
+                  "text_value": "5.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel tank capacity (L)",
+                  "code": "civic-sedan-2016-fuel_tank_capacity_(l)",
+                  "text_value": "47.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TYRES & WHEELS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-tyres",
+          "categories": [
+            {
+              "title": "Tyers",
+              "code": "civic-sedan-2016-tyers",
+              "sub_categories": [
+                {
+                  "title": "Tyre size",
+                  "code": "civic-sedan-2016-tyre_size",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Wheels",
+              "code": "civic-sedan-2016-wheels",
+              "sub_categories": [
+                {
+                  "title": "Wheel type",
+                  "code": "civic-sedan-2016-wheel_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "steel",
+                      "code": "civic-sedan-2016-steel",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "alloy",
+                      "code": "civic-sedan-2016-alloy",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wheel size",
+                  "code": "civic-sedan-2016-wheel_size",
+                  "text_value": "17\"",
+                  "has_value": false
+                },
+                {
+                  "title": "Space saver spare wheel",
+                  "code": "civic-sedan-2016-space_saver_spare_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "order": 0
+    },
+    {
+      "title": "VTi-LX",
+      "image": "/content/dam/honda/cars/models/civic-sedan-2016/product/sideprofile/Civic_VTi-LX_MASTER_LEFT_RGB.png",
+      "code": "civic-sedan-2016-vti-lx",
+      "isDefaultVariant": false,
+      "disclaimer": "disclaimer",
+      "specification_image": "/content/dam/honda/cars/models/civic-sedan-2016/product/front34/Civic_VTi-LX_MASTER_F34_RGB.png",
+      "specification_title": "VTi-LX 1.5L TURBO",
+      "specifications": [
+        {
+          "title": "POWERTRAIN",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-powertrain",
+          "categories": [
+            {
+              "title": "Engine",
+              "code": "civic-sedan-2016-engine",
+              "sub_categories": [
+                {
+                  "title": "Engine type",
+                  "code": "civic-sedan-2016-engine_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "SOHC i-VTEC In line 4-cylinder",
+                      "code": "civic-sedan-2016-sohc_i-vtec_in_line_4-cylinder",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "DOHC VTEC Turbo In line 4-cylinder",
+                      "code": "civic-sedan-2016-dohc_vtec_turbo_in_line_4-cylinder",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Engine capacity",
+                  "code": "civic-sedan-2016-engine_capacity",
+                  "text_value": "1.5L - 1498cc",
+                  "has_value": false
+                },
+                {
+                  "title": "Compression ratio",
+                  "code": "civic-sedan-2016-compression_ratio",
+                  "text_value": "10.6",
+                  "has_value": false
+                },
+                {
+                  "title": "Bore x stroke (mm)",
+                  "code": "civic-sedan-2016-bore_x_stroke_(mm)",
+                  "text_value": "73x89.5",
+                  "has_value": false
+                },
+                {
+                  "title": "Drive By Wire throttle (DBW)",
+                  "code": "civic-sedan-2016-drive_by_wire_throttle_(dbw)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Transmission",
+              "code": "civic-sedan-2016-transmission",
+              "sub_categories": [
+                {
+                  "title": "Continuously Variable Transmission (CVT)",
+                  "code": "civic-sedan-2016-continuously_variable_transmission_(cvt)",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted paddles shifters",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_paddles_shifters",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "PERFORMANCE AND FUEL ECONOMY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-performance",
+          "categories": [
+            {
+              "title": "Performance",
+              "code": "civic-sedan-2016-performance",
+              "sub_categories": [
+                {
+                  "title": "Maximum power (kW@rpm)",
+                  "code": "civic-sedan-2016-maximum_power_(kw@rpm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Maximum torque (Nm @rpm)",
+                  "code": "civic-sedan-2016-maximum_torque_(nm_@rpm)",
+                  "text_value": "220 @ 1700-5500",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Fuel economy",
+              "code": "civic-sedan-2016-fuel_economy",
+              "sub_categories": [
+                {
+                  "title": "Fuel consumption (litres/100km)*",
+                  "code": "civic-sedan-2016-fuel_consumption_(litres-100km)",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "combined",
+                      "code": "civic-sedan-2016-combined",
+                      "text_value": "6.0"
+                    },
+                    {
+                      "title": "urban",
+                      "code": "civic-sedan-2016-urban",
+                      "text_value": "8.1"
+                    },
+                    {
+                      "title": "extra urban",
+                      "code": "civic-sedan-2016-extra_urban",
+                      "text_value": "4.8"
+                    }
+                  ]
+                },
+                {
+                  "title": "CO2 emission (g/km)*",
+                  "code": "civic-sedan-2016-co2_emission_(g-km)",
+                  "text_value": "140.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "CHASIS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-chasis",
+          "categories": [
+            {
+              "title": "Suspension",
+              "code": "civic-sedan-2016-suspension",
+              "sub_categories": [
+                {
+                  "title": "MacPherson strut (front)",
+                  "code": "civic-sedan-2016-macpherson_strut_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Multi-link (rear)",
+                  "code": "civic-sedan-2016-multi-link_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Steering",
+              "code": "civic-sedan-2016-steering",
+              "sub_categories": [
+                {
+                  "title": "Motion Adaptive Electric Power Steering",
+                  "code": "civic-sedan-2016-motion_adaptive_electric_power_steering",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Brakes",
+              "code": "civic-sedan-2016-brakes",
+              "sub_categories": [
+                {
+                  "title": "Ventilated disc (front)",
+                  "code": "civic-sedan-2016-ventilated_disc_(front)",
+                  "has_value": false
+                },
+                {
+                  "title": "Sold disc (rear)",
+                  "code": "civic-sedan-2016-sold_disc_(rear)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "EXTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-exterior",
+          "categories": [
+            {
+              "title": "Styling",
+              "code": "civic-sedan-2016-styling",
+              "sub_categories": [
+                {
+                  "title": "Antenna",
+                  "code": "civic-sedan-2016-antenna",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "in-glass",
+                      "code": "civic-sedan-2016-in-glass",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "shark fin",
+                      "code": "civic-sedan-2016-shark_fin",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Tailgate spoiler",
+                  "code": "civic-sedan-2016-tailgate_spoiler",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Piano black B-Pillar finish",
+                  "code": "civic-sedan-2016-piano_black_b-pillar_finish",
+                  "flag": "no",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Convenience",
+              "code": "civic-sedan-2016-convenience",
+              "sub_categories": [
+                {
+                  "title": "Rear window demister",
+                  "code": "civic-sedan-2016-rear_window_demister",
+                  "has_value": false
+                },
+                {
+                  "title": "One touch tilt & openable electric sunroof",
+                  "code": "civic-sedan-2016-one_touch_tilt_&_openable_electric_sunroof",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Lighting",
+              "code": "civic-sedan-2016-lighting",
+              "sub_categories": [
+                {
+                  "title": "Front fog lights",
+                  "code": "civic-sedan-2016-front_fog_lights",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "halogen",
+                      "code": "civic-sedan-2016-halogen",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "LED",
+                      "code": "civic-sedan-2016-led",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INTERIOR",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-interior",
+          "categories": [
+            {
+              "title": "Driver aids",
+              "code": "civic-sedan-2016-driver_aids",
+              "sub_categories": [
+                {
+                  "title": "Cruise control with speed limiter",
+                  "code": "civic-sedan-2016-cruise_control_with_speed_limiter",
+                  "has_value": false
+                },
+                {
+                  "title": "Eco assist system (speedometer display)",
+                  "code": "civic-sedan-2016-eco_assist_system_(speedometer_display)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Steering wheel-mounted controls",
+                  "code": "civic-sedan-2016-steering_wheel-mounted_controls",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "ECON mode",
+                  "code": "civic-sedan-2016-econ_mode",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Comfort and convenience",
+              "code": "civic-sedan-2016-comfort_and_convenience",
+              "sub_categories": [
+                {
+                  "title": "Accessory power outlet (12v)",
+                  "code": "civic-sedan-2016-accessory_power_outlet_(12v)",
+                  "has_value": false
+                },
+                {
+                  "title": "Drilled alloy pedals",
+                  "code": "civic-sedan-2016-drilled_alloy_pedals",
+                  "flag": "no",
+                  "has_value": false
+                },
+                {
+                  "title": "Driver's footrest",
+                  "code": "civic-sedan-2016-driver's_footrest",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Dust and pollen filter",
+                  "code": "civic-sedan-2016-dust_and_pollen_filter",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electric parking brake with automatic brake hold",
+                  "code": "civic-sedan-2016-electric_parking_brake_with_automatic_brake_hold",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Front console (with 2 cup holders)",
+                  "code": "civic-sedan-2016-front_console_(with_2_cup_holders)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Remote central locking",
+                  "code": "civic-sedan-2016-remote_central_locking",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Smart keyless entry with push start button",
+                  "code": "civic-sedan-2016-smart_keyless_entry_with_push_start_button",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tilt and teslescopic steering column",
+                  "code": "civic-sedan-2016-tilt_and_teslescopic_steering_column",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior lighting",
+              "code": "civic-sedan-2016-interior_lighting",
+              "sub_categories": [
+                {
+                  "title": "Map lights",
+                  "code": "civic-sedan-2016-map_lights",
+                  "has_value": false
+                },
+                {
+                  "title": "Interior light",
+                  "code": "civic-sedan-2016-interior_light",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Cargo area light",
+                  "code": "civic-sedan-2016-cargo_area_light",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Seating extras",
+              "code": "civic-sedan-2016-seating_extras",
+              "sub_categories": [
+                {
+                  "title": "60:40 split fold rear seats",
+                  "code": "civic-sedan-2016-6040_split_fold_rear_seats",
+                  "has_value": false
+                },
+                {
+                  "title": "Rear seat armrest with cupholders",
+                  "code": "civic-sedan-2016-rear_seat_armrest_with_cupholders",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Heated front seats",
+                  "code": "civic-sedan-2016-heated_front_seats",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Interior trim",
+              "code": "civic-sedan-2016-interior_trim",
+              "sub_categories": [
+                {
+                  "title": "Seat trim material",
+                  "code": "civic-sedan-2016-seat_trim_material",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "black fabric",
+                      "code": "civic-sedan-2016-black_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black premium fabric",
+                      "code": "civic-sedan-2016-black_premium_fabric",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "black leather appointed1",
+                      "code": "civic-sedan-2016-black_leather_appointed1",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Leather-wrapped steering wheel",
+                  "code": "civic-sedan-2016-leather-wrapped_steering_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Leather-wrapped gear shift knob",
+                  "code": "civic-sedan-2016-leather-wrapped_gear_shift_knob",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Storage",
+              "code": "civic-sedan-2016-storage",
+              "sub_categories": [
+                {
+                  "title": "Beverage holders (x8)",
+                  "code": "civic-sedan-2016-beverage_holders_(x8)",
+                  "has_value": false
+                },
+                {
+                  "title": "Coat hanger (x2)",
+                  "code": "civic-sedan-2016-coat_hanger_(x2)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Sunviser ticket holder (driver-side)",
+                  "code": "civic-sedan-2016-sunviser_ticket_holder_(driver-side)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "INFOTAINMENT",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-infotainment",
+          "categories": [
+            {
+              "title": "Advanced Display Audio (7\" touchscreen) featuring",
+              "code": "civic-sedan-2016-advanced_display_audio_(7\"_touchscreen)_featuring",
+              "sub_categories": [
+                {
+                  "title": "AM/FM radio",
+                  "code": "civic-sedan-2016-am-fm_radio",
+                  "has_value": false
+                },
+                {
+                  "title": "Android Autoâ„¢ with Googleâ„¢ Voice search#",
+                  "code": "civic-sedan-2016-android_autoâ„¢_with_googleâ„¢_voice_search#",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Apple CarPlayâ„¢ with SiriÂ® Eyes Free modeâ€¡",
+                  "code": "civic-sedan-2016-apple_carplayâ„¢_with_siriÂ®_eyes_free_modeâ€¡",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "BluetoothÂ® connectivity with audio streamingÂ°",
+                  "code": "civic-sedan-2016-bluetoothÂ®_connectivity_with_audio_streamingÂ°",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Digital Radio (DAB+)^",
+                  "code": "civic-sedan-2016-digital_radio_(dab+)^",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "GarminÂ® satellite navigationËœ (with SUNAâ‰  Live Traffic updates)",
+                  "code": "civic-sedan-2016-garminÂ®_satellite_navigationËœ_(with_sunaâ‰ _live_traffic_updates)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "HDMI connectivity (1 port)",
+                  "code": "civic-sedan-2016-hdmi_connectivity_(1_port)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "USB connectivity (2 ports)",
+                  "code": "civic-sedan-2016-usb_connectivity_(2_ports)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Speakers",
+              "code": "civic-sedan-2016-speakers",
+              "sub_categories": [
+                {
+                  "title": "160W sound system (4 speakers and 4 tweeters)",
+                  "code": "civic-sedan-2016-160w_sound_system_(4_speakers_and_4_tweeters)",
+                  "has_value": false
+                },
+                {
+                  "title": "452W premium sound system (10 speakers inc. subwoofer)",
+                  "code": "civic-sedan-2016-452w_premium_sound_system_(10_speakers_inc._subwoofer)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Speed-sensitive Volume Compensation (SVC)",
+                  "code": "civic-sedan-2016-speed-sensitive_volume_compensation_(svc)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "SAFETY",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-safety",
+          "categories": [
+            {
+              "title": "Active safety",
+              "code": "civic-sedan-2016-active_safety",
+              "sub_categories": [
+                {
+                  "title": "Honda Sensing featuring",
+                  "code": "civic-sedan-2016-honda_sensing_featuring",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "Forward Collision Warning (FCW)",
+                      "code": "civic-sedan-2016-forward_collision_warning_(fcw)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Collision Mitigation Braking System (CMBS)",
+                      "code": "civic-sedan-2016-collision_mitigation_braking_system_(cmbs)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Lane Departure Warning (LDW)",
+                      "code": "civic-sedan-2016-lane_departure_warning_(ldw)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Lane Keeping Assist System (LKAS)",
+                      "code": "civic-sedan-2016-lane_keeping_assist_system_(lkas)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Road Departure Mitigation System (RDM)",
+                      "code": "civic-sedan-2016-road_departure_mitigation_system_(rdm)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Adaptive Cruise Control (ACC) with Low-Speed Follow (LSF)",
+                      "code": "civic-sedan-2016-adaptive_cruise_control_(acc)_with_low-speed_follow_(lsf)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Agile Handling Assist System (AHAS)",
+                  "code": "civic-sedan-2016-agile_handling_assist_system_(ahas)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Hill Start Assist (HSA)",
+                  "code": "civic-sedan-2016-hill_start_assist_(hsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "LaneWatch",
+                  "code": "civic-sedan-2016-lanewatch",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Straight driving steering assist",
+                  "code": "civic-sedan-2016-straight_driving_steering_assist",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Vehicle Stability Assist (VSA)",
+                  "code": "civic-sedan-2016-vehicle_stability_assist_(vsa)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Traction Control System (TCS)",
+                  "code": "civic-sedan-2016-traction_control_system_(tcs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Anti-lock Braking System (ABS)",
+                  "code": "civic-sedan-2016-anti-lock_braking_system_(abs)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Electronic Brake-force Distribution (EBD)",
+                  "code": "civic-sedan-2016-electronic_brake-force_distribution_(ebd)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Brake Assist (EBA)",
+                  "code": "civic-sedan-2016-emergency_brake_assist_(eba)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Emergency Stop Signal (ESS)",
+                  "code": "civic-sedan-2016-emergency_stop_signal_(ess)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Tyre Deflation Warning System (DWS)",
+                  "code": "civic-sedan-2016-tyre_deflation_warning_system_(dws)",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Passive safety",
+              "code": "civic-sedan-2016-passive_safety",
+              "sub_categories": [
+                {
+                  "title": "Child restraint anchorages",
+                  "code": "civic-sedan-2016-child_restraint_anchorages",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "ISO fix (up to 2)",
+                      "code": "civic-sedan-2016-iso_fix_(up_to_2)",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "Child anchorage point (x3)",
+                      "code": "civic-sedan-2016-child_anchorage_point_(x3)",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Child-proof rear door locks",
+                  "code": "civic-sedan-2016-child-proof_rear_door_locks",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Head restraints (x5)",
+                  "code": "civic-sedan-2016-head_restraints_(x5)",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Side impact protection",
+                  "code": "civic-sedan-2016-side_impact_protection",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Parking aids",
+              "code": "civic-sedan-2016-parking_aids",
+              "sub_categories": [
+                {
+                  "title": "Parking sensors",
+                  "code": "civic-sedan-2016-parking_sensors",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "front",
+                      "code": "civic-sedan-2016-front",
+                      "flag": "yes"
+                    },
+                    {
+                      "title": "rear",
+                      "code": "civic-sedan-2016-rear",
+                      "flag": "yes"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Security",
+              "code": "civic-sedan-2016-security",
+              "sub_categories": [
+                {
+                  "title": "Engine immobiliser",
+                  "code": "civic-sedan-2016-engine_immobiliser",
+                  "has_value": false
+                },
+                {
+                  "title": "Security alarm system",
+                  "code": "civic-sedan-2016-security_alarm_system",
+                  "flag": "yes",
+                  "has_value": false
+                },
+                {
+                  "title": "Automatic 'walk away' door locking",
+                  "code": "civic-sedan-2016-automatic_'walk_away'_door_locking",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "DIMENSIONS, WEIGHTS AND CAPACITIES",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-dimensions,",
+          "categories": [
+            {
+              "title": "Dimensions",
+              "code": "civic-sedan-2016-dimensions",
+              "sub_categories": [
+                {
+                  "title": "Overall length (mm)",
+                  "code": "civic-sedan-2016-overall_length_(mm)",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall width (mm)",
+                  "code": "civic-sedan-2016-overall_width_(mm)",
+                  "text_value": "1799.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Overall height (mm)",
+                  "code": "civic-sedan-2016-overall_height_(mm)",
+                  "text_value": "1416.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Wheelbase (mm)",
+                  "code": "civic-sedan-2016-wheelbase_(mm)",
+                  "text_value": "2700.0",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Weights",
+              "code": "civic-sedan-2016-weights",
+              "sub_categories": [
+                {
+                  "title": "Tare mass (kg)",
+                  "code": "civic-sedan-2016-tare_mass_(kg)",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Capacities",
+              "code": "civic-sedan-2016-capacities",
+              "sub_categories": [
+                {
+                  "title": "Boot capacity (litres in VDA standard)",
+                  "code": "civic-sedan-2016-boot_capacity_(litres_in_vda_standard)",
+                  "has_value": false
+                },
+                {
+                  "title": "Seat capacity",
+                  "code": "civic-sedan-2016-seat_capacity",
+                  "text_value": "5.0",
+                  "has_value": false
+                },
+                {
+                  "title": "Fuel tank capacity (L)",
+                  "code": "civic-sedan-2016-fuel_tank_capacity_(l)",
+                  "text_value": "47.0",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "TYRES & WHEELS",
+          "disclaimers": [],
+          "code": "civic-sedan-2016-tyres",
+          "categories": [
+            {
+              "title": "Tyers",
+              "code": "civic-sedan-2016-tyers",
+              "sub_categories": [
+                {
+                  "title": "Tyre size",
+                  "code": "civic-sedan-2016-tyre_size",
+                  "has_value": false
+                }
+              ]
+            },
+            {
+              "title": "Wheels",
+              "code": "civic-sedan-2016-wheels",
+              "sub_categories": [
+                {
+                  "title": "Wheel type",
+                  "code": "civic-sedan-2016-wheel_type",
+                  "has_value": true,
+                  "values": [
+                    {
+                      "title": "steel",
+                      "code": "civic-sedan-2016-steel",
+                      "flag": "no"
+                    },
+                    {
+                      "title": "alloy",
+                      "code": "civic-sedan-2016-alloy",
+                      "flag": "yes"
+                    }
+                  ]
+                },
+                {
+                  "title": "Wheel size",
+                  "code": "civic-sedan-2016-wheel_size",
+                  "text_value": "17\"",
+                  "has_value": false
+                },
+                {
+                  "title": "Space saver spare wheel",
+                  "code": "civic-sedan-2016-space_saver_spare_wheel",
+                  "flag": "yes",
+                  "has_value": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "order": 0
+    }
+  ]
+}

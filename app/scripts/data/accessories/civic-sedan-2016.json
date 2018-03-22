@@ -1,0 +1,474 @@
+[{
+    "id": "accessories-blackpack",
+    "title": "THE BLACK PACK",
+    "featured": true,
+    "imgSrc": "/lib/img/black-pack/civic-sedan/civic-black-pack-2x1.jpg",
+    "url": "/black-pack-civic-sedan.html"
+},
+{
+    "id": "accessories-blackpack-1",
+    "title": "17-INCH ALLOY WHEELS",
+    "items": [{
+        "id": "civic-accessory-blackpack-item1",
+        "type": "accessory",
+        "title": "17-INCH ALLOY WHEELS",
+        "description": "Blacked out 17-inch alloys elevate Civic from the ground up.",
+        "imgSrc": "/lib/img/black-pack/civic-sedan/accessories/civic-blackpack-wheels.jpg",
+        "price": "000<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": ""
+},
+{
+    "id": "accessories-blackpack-1",
+    "title": "SPORTS GRILLE",
+    "items": [{
+        "id": "civic-accessory-blackpack-item1",
+        "type": "accessory",
+        "title": "SPORTS GRILLE",
+        "description": "Black Pack Sports Grille description.",
+        "imgSrc": "/lib/img/black-pack/civic-sedan/accessories/civic-blackpack-sports-grille.jpg",
+        "price": "000<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": ""
+},
+{
+    "id": "accessories-blackpack-1",
+    "title": "SIDE SKIRT SET",
+    "items": [{
+        "id": "civic-accessory-blackpack-item1",
+        "type": "accessory",
+        "title": "SIDE SKIRT SET",
+        "description": "Black Pack Side Skirt Set description.",
+        "imgSrc": "/lib/img/black-pack/civic-sedan/accessories/civic-blackpack-side-skirt-set.jpg",
+        "price": "000<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": ""
+},
+{
+    "id": "accessories-blackpack-1",
+    "title": "DUCKTAIL SPOILER",
+    "items": [{
+        "id": "civic-accessory-blackpack-item1",
+        "type": "accessory",
+        "title": "DUCKTAIL SPOILER",
+        "description": "Black Pack Ducktail Spoiler description.",
+        "imgSrc": "/lib/img/black-pack/civic-sedan/accessories/civic-blackpack-ducktail-spoiler.jpg",
+        "price": "000<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": ""
+},
+{
+    "id": "accessories-blackpack-1",
+    "title": "MIRROR COVERS",
+    "items": [{
+        "id": "civic-accessory-blackpack-item1",
+        "type": "accessory",
+        "title": "MIRROR COVERS",
+        "description": "Black Pack Mirror Covers description.",
+        "imgSrc": "/lib/img/black-pack/civic-sedan/accessories/civic-blackpack-mirror-covers.jpg",
+        "price": "000<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": ""
+},
+{
+    "id": "accessories-blackpack-1",
+    "title": "FRONT UNDER SPOILER",
+    "items": [{
+        "id": "civic-accessory-blackpack-item1",
+        "type": "accessory",
+        "title": "FRONT UNDER SPOILER",
+        "description": "Black Pack Front Under Spoiler description.",
+        "imgSrc": "/lib/img/black-pack/civic-sedan/accessories/civic-blackpack-front-under-spoiler.jpg",
+        "price": "000<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": ""
+},
+{
+    "id": "accessories-1",
+    "title": "SIDE STEP SET",
+    "items": [{
+        "id": "civic-accessory-1",
+        "type": "accessory",
+        "title": "SIDE STEP SET",
+        "description": "For easy access, add the Side step set available as part of the Modulo Sports Pack or sold separately.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-side-step-set.jpg",
+        "price": "814<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-2",
+    "title": "DOOR VISOR SET",
+    "items": [{
+        "id": "civic-accessory-2",
+        "type": "accessory",
+        "title": "DOOR VISOR SET",
+        "description": "The hard-wearing acrylic door visors improve airflow while helping to protect the HR-V’s interior from water and debris.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-door-visor-set.jpg",
+        "price": "256<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-3",
+    "title": "FRONT FOG LIGHT SET",
+    "items": [{
+        "id": "civic-accessory-3",
+        "type": "accessory",
+        "title": "FRONT FOG LIGHT SET",
+        "description": "Enjoy the benefit of added visibility in foggy conditions with these stylish front fog lights.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-front-fog-light-set.jpg",
+        "price": "571<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-4",
+    "title": "DOOR MIRROR GARNISH SET",
+    "items": [{
+        "id": "civic-accessory-4",
+        "type": "accessory",
+        "title": "DOOR MIRROR GARNISH SET",
+        "description": "Make the HR-V stand out with the addition of the silver finish Door mirror garnish set.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-door-mirror-garnish-set.jpg",
+        "price": "98<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-5",
+    "title": "REAR AERO BUMPER",
+    "items": [{
+        "id": "civic-accessory-5",
+        "type": "accessory",
+        "title": "REAR AERO BUMPER",
+        "description": "Style the rear of your HR-V with the rear aero bumper, available as part of the Modulo Sports Pack or sold separately.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-rear-aero-bumper.jpg",
+        "price": "893<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-6",
+    "title": "ORGANISER BOX",
+    "items": [{
+        "id": "civic-accessory-6",
+        "type": "accessory",
+        "title": "ORGANISER BOX",
+        "description": "Ensure your items are kept neatly in place with the organiser box that fits tidily in the boot of your HR-V.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-organiser-box.jpg",
+        "price": "129<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-7",
+    "title": "REAR BUMPER AND BOOTLIP PROTECTOR",
+    "items": [{
+        "id": "civic-accessory-7",
+        "type": "accessory",
+        "title": "REAR BUMPER AND BOOTLIP PROTECTOR",
+        "description": "Keep your HR-V’s rear end in tip-top shape with this practical posterior protector.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-rear-bumper-and-bootlip-protector.jpg",
+        "price": "45<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "Image for illustrative purposes. <br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer.<br />"
+},
+{
+    "id": "accessories-8",
+    "title": "CABLE KIT",
+    "items": [{
+        "id": "civic-accessory-8",
+        "type": "accessory",
+        "title": "CABLE KIT",
+        "description": "Use the cable kit to connect your iPhone* to your HR-V’s Display Audio unit. The cable kit includes: 1 x Apple Lightening Digital AV Adapter; 1 x Apple Lighting USB Cable (0.5m); and 1 x Belkin HDMI cable.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-cablekit.jpg",
+        "price": "150<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "Compatible with iPhone® 5 running iOS7. Drive responsibly. Apple and iPhone are trademarks of Apple Inc., registered in the U.S. and other coun - tries. iOS is a trademark or registered trademark of Cisco in the U.S. and other countries and is used under license. <br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+
+{
+    "id": "accessories-9",
+    "title": "CARGO STEP PROTECTOR",
+    "items": [{
+        "id": "civic-accessory-9",
+        "type": "accessory",
+        "title": "CARGO STEP PROTECTOR",
+        "description": "Protect your HR-V’s bodywork from annoying scrapes and scratches when loading or unloading your boot.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-cargo-step-protector.jpg",
+        "price": "129<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-10",
+    "title": "DELUXE TAILORED MAT SET – CARPET",
+    "items": [{
+        "id": "civic-accessory-10",
+        "type": "accessory",
+        "title": "DELUXE TAILORED MAT SET – CARPET",
+        "description": "Help to protect the carpeting of your HR-V from daily wear and tear with this tailored carpet mat set.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-deluxe-tailored-mat-set-carpet.jpg",
+        "price": "178<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-11",
+    "title": "DOOR SILL GARNISH SET",
+    "items": [{
+        "id": "civic-accessory-12",
+        "type": "accessory",
+        "title": "DOOR SILL GARNISH SET",
+        "description": "Stainless Steel Finish with HR-V logo – designed to enhance and protect the sills of your new HR-V.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-door-sill-garnish-set.jpg",
+        "price": "299<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "Front illuminated. Rear is metallic<br><sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-12",
+    "title": "ACCENT LIGHTING – FOOT LIGHTS",
+    "items": [{
+        "id": "civic-accessory-13",
+        "type": "accessory",
+        "title": "ACCENT LIGHTING – FOOT LIGHTS",
+        "description": "Add a cool atmosphere to your HR-V by illuminating the front footwell with the Accent lighting accessory.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-accent-lighting-foot-lights.jpg",
+        "price": "285<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "Shown with Sport Pedal Set ($66.55) <br> <sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-13",
+    "title": "DOOR LOWER GARNISH SET",
+    "items": [{
+        "id": "civic-accessory-14",
+        "type": "accessory",
+        "title": "DOOR LOWER GARNISH SET",
+        "description": "Style your side doors with the Door lower garnish set.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-door-lower-garnish-set.jpg",
+        "price": "289<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-14",
+    "title": "LUGGAGE AREA PROTECTOR TRAY",
+    "items": [{
+        "id": "civic-accessory-15",
+        "type": "accessory",
+        "title": "LUGGAGE AREA PROTECTOR TRAY",
+        "description": "Tailored to fit the boot of your HR-V, ideal when carrying messy loads, protecting the interior.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-luggage-area-protector-tray.jpg",
+        "price": "99<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-15",
+    "title": "ALL WEATHER RUBBER MAT SET",
+    "items": [{
+        "id": "civic-accessory-16",
+        "type": "accessory",
+        "title": "ALL WEATHER RUBBER MAT SET",
+        "description": "Help to protect the carpeting of your HR-V from daily wear and tear with this tailored all weather rubber mat set.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-rubber-mat-set.jpg",
+        "price": "98<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-16",
+    "title": "FRONT AERO BUMPER",
+    "items": [{
+        "id": "civic-accessory-17",
+        "type": "accessory",
+        "title": "FRONT AERO BUMPER",
+        "description": "Complement the HR-V’s already stylish front with the Front aero bumper, available as part of the Modulo Sports Pack or sold separately.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-front-aero-bumper.jpg",
+        "price": "893<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-17",
+    "title": "MODULO SPORTS PACK",
+    "items": [{
+        "id": "civic-accessory-18",
+        "type": "accessory",
+        "title": "MODULO SPORTS PACK",
+        "description": "With the Modulo Sports Pack, available as a full set or piece-by-piece, you can customise your HR-V so it’s even sleeker, sportier, and 100% yours alone.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-front-aero-bumper.jpg",
+        "price": "2,600<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "HR-V VTi-S shown in Tafetta White with Modulo Sports Pack ($2,599.51), 18-inch upsize alloy wheels (Set of 4 Wheels = $1,430, Set of 4 Wheels & Tyres = $2,746), and Sports Grille ($436)<br><sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-18",
+    "title": "SPORTS PEDAL SET",
+    "items": [{
+        "id": "civic-accessory-19",
+        "type": "accessory",
+        "title": "SPORTS PEDAL SET",
+        "description": "Optional Sports pedals are engineered from aluminum, clear coated and finished with molded rubber studs.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-sports-pedal-set.jpg",
+        "price": "67<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S"],
+        "availabilityNotes": "",
+        "category": "interior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+
+{
+    "id": "accessories-19",
+    "title": "SPORTS GRILLE",
+    "items": [{
+        "id": "civic-accessory-20",
+        "type": "accessory",
+        "title": "SPORTS GRILLE",
+        "description": "Sophisticated and sporty the metal finish Sports Grille accentuates the HR-V’s already distinctive styling.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-sports-grille.jpg",
+        "price": "436<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-20",
+    "title": "BONNET PROTECTOR",
+    "items": [{
+        "id": "civic-accessory-21",
+        "type": "accessory",
+        "title": "BONNET PROTECTOR",
+        "description": "Help protect the front section of your all-new HR-V from chips and scratches with this hardwearing extruding acrylic bonnet protector.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-bonnet-protector.jpg",
+        "price": "139<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi", "VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "<sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+},
+{
+    "id": "accessories-21",
+    "title": "ROOF RACKS CROSS BAR SET",
+    "items": [{
+        "id": "civic-accessory-22",
+        "type": "accessory",
+        "title": "ROOF RACKS CROSS BAR SET",
+        "description": "Conveniently carry items such as bikes and skis on the roof of your HR-V. 75kg load capacity.",
+        "imgSrc": "/lib/img/showroom/accessories/HRV/hrv-accessories-roof-racks-cross-bar-set.jpg",
+        "price": "528<sup>*</sup>",
+        "availableAllVariants": false,
+        "availability": ["VTi-S", "VTi-L", "VTi-L + ADAS"],
+        "availabilityNotes": "",
+        "category": "exterior"
+    }],
+    "disclaimer": "In the interest of aerodynamics, Honda recommends the roof racks set be removed when not in use.<br><sup>*</sup>The Recommended Fitted Retail Price (RFRP) displayed includes GST, the Recommended Retail Price for the accessory and fitment costs based on suggested fitting time and labour costs. Important: Accessory and fitment pricing may vary between participating Dealers. We strongly recommend that you confirm the final fitted price with your Honda Dealer."
+}]
