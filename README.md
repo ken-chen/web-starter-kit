@@ -75,3 +75,21 @@ Contributions, questions and comments are all welcome and encouraged. For code c
 
 Apache 2.0  
 Copyright 2015 Google Inc
+
+
+For some reason gulp v3.9.1~4.0 has this issue but when using 3.9.0 i have no issue what so ever. 
+
+
+Issue:
+Failed to load external module @babel/register
+
+$ npm uninstall -g gulp
+$ npm install -g gulp@3.9.0
+$ npm uninstall --save-dev gulp
+$ npm install --save-dev gulp@3.9.0
+ 
+
+$ gulp -v
+Requiring external module babel-core/register
+CLI version 3.9.0
+Local version 3.9.0
